@@ -1,0 +1,9 @@
+\contentsline {section}{List of Tables}{vi}{section*.1}
+\contentsline {section}{List of Figures}{vii}{section*.2}
+\contentsline {section}{ABSTRACT}{viii}{section*.4}
+\contentsline {section}{R\'{E}SUM\'{E}}{ix}{section*.5}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Intro subsection}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Subsubsection}{1}{subsubsection.1.1.1}
+\contentsline {section}{\numberline {2}Data}{1}{section.2}
+\contentsline {section}{\numberline {3}Discussion}{2}{section.3}
