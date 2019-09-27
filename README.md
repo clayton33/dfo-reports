@@ -12,9 +12,9 @@ The link provided for the above require those to be on the DFO network. The guid
 
 You can either download this directory and make changes to ``myreport.tex``. Or you can copy over a few files in order for it to work. Required files include:
 
-* LogoCanada.png
-* LogoDFO.png
-* dforeport.cls
+* ``LogoCanada.png``
+* ``LogoDFO.pngi``
+* ``dforeport.cls``
 
 It is suggested that the user take a look at ``myreport.tex`` as it shows what to include in the preamble and right after you begin your document.
  
