@@ -1,12 +1,13 @@
 # Fdb version 3
-["bibtex myreport"] 1569604815 "myreport.aux" "myreport.bbl" "myreport" 1569604817
+["bibtex myreport"] 1570025006 "myreport.aux" "myreport.bbl" "myreport" 1570025007
   "/usr/share/texlive/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "myreport.aux" 1569604816 2524 632f771985f14b34d2269df2cb1f4d06 ""
+  "myreport.aux" 1570025007 2738 2fdc3500c9a22f676f2465eef595ac92 ""
   "myreport.bcf" 0 -1 0 ""
   "references.bib" 1569604536 728 15c4b8241415c8ef5cbd0050940379d9 ""
   (generated)
+  "myreport.blg"
   "myreport.bbl"
-["pdflatex"] 1569604815 "myreport.tex" "myreport.pdf" "myreport" 1569604817
+["pdflatex"] 1570025006 "myreport.tex" "myreport.pdf" "myreport" 1570025007
   "/etc/texmf/web2c/texmf.cnf" 1514473809 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -46,6 +47,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb" 1248133631 35660 fb24af7afbadb71801619f1415838111 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb" 1136849748 35941 f27169cc74234d5bd5e4cca5abafaabb ""
@@ -125,18 +127,18 @@
   "LogoCanada.jpg" 1569595507 139065 673275c6f69dccedc104a39f4ca9c1bf ""
   "LogoDFO.png" 1569595507 39388 484a96244b3019de8de02141ef9b17dd ""
   "dforeport.cls" 1569595482 9942 875410f7f860fa753cdd34a0f03eeca6 ""
-  "myreport.aux" 1569604816 2524 632f771985f14b34d2269df2cb1f4d06 ""
-  "myreport.bbl" 1569604815 915 7294583530c0eae5780dd03f804c5294 "bibtex myreport"
-  "myreport.lof" 1569604816 222 234002ae33651f1932b6962f7c66a867 ""
-  "myreport.lot" 1569604816 224 9d97d3a5c9be8bfe78a28259329f7c88 ""
-  "myreport.out" 1569604816 461 bf8051d5ac3962a3a829080074cf02da ""
-  "myreport.tex" 1569604811 5388 c632ec0d00b539f897b47a11ffad850c ""
-  "myreport.toc" 1569604816 582 bac9baa7199cc3e7f0636387babaafbf ""
+  "myreport.aux" 1570025007 2738 2fdc3500c9a22f676f2465eef595ac92 ""
+  "myreport.bbl" 1570025006 915 7294583530c0eae5780dd03f804c5294 "bibtex myreport"
+  "myreport.lof" 1570025007 222 234002ae33651f1932b6962f7c66a867 ""
+  "myreport.lot" 1570025007 333 51a4184ea43dcb3539a40b351e837da2 ""
+  "myreport.out" 1570025007 461 bf8051d5ac3962a3a829080074cf02da ""
+  "myreport.tex" 1570025003 6370 53250e710cf5f23005fbf4a98c1cdcad ""
+  "myreport.toc" 1570025007 582 bac9baa7199cc3e7f0636387babaafbf ""
   (generated)
   "myreport.aux"
   "myreport.lof"
+  "myreport.out"
   "myreport.lot"
   "myreport.pdf"
   "myreport.toc"
-  "myreport.out"
   "myreport.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.28)  27 SEP 2019 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.28)  2 OCT 2019 11:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,30 +454,30 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (./myreport.aux)
 \openout1 = `myreport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 31.
+(lastpage)             ! on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -508,7 +508,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -518,32 +518,32 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (./myreport.out) (./myreport.out)
 \@outlinefile=\write4
 \openout4 = `myreport.out'.
 
-LaTeX Font Info:    Try loading font information for T1+phv on input line 32.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 32.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 31.
 
 <LogoDFO.png, id=40, 1211.2452pt x 128.1588pt>
 File: LogoDFO.png Graphic file (type png)
  <use LogoDFO.png>
-Package pdftex.def Info: LogoDFO.png used on input line 32.
+Package pdftex.def Info: LogoDFO.png used on input line 31.
 (pdftex.def)             Requested size: 188.22159pt x 19.91524pt.
 
 <LogoCanada.jpg, id=41, 505.89pt x 159.4758pt>
 File: LogoCanada.jpg Graphic file (type jpg)
  <use LogoCanada.jpg>
-Package pdftex.def Info: LogoCanada.jpg used on input line 32.
+Package pdftex.def Info: LogoCanada.jpg used on input line 31.
 (pdftex.def)             Requested size: 63.17433pt x 19.91495pt.
  [1
 
@@ -552,16 +552,16 @@ da.jpg>]
 [2
 
 ]
-LaTeX Info: Redefining \\ on input line 32.
+LaTeX Info: Redefining \\ on input line 31.
  [3
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+aer on input line 32.
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 31.
  (/usr/share/texmf/tex/latex/R/tex/latex/ts1aer.fd
 File: ts1aer.fd 
 )
 LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10> not available
-(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 32.
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 31.
  [4
 
 ] (./myreport.toc)
@@ -590,46 +590,71 @@ LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10> not available
 
 
 ]
-<01_exampleFigure.png, id=131, 289.08pt x 289.08pt>
+<01_exampleFigure.png, id=133, 289.08pt x 289.08pt>
 File: 01_exampleFigure.png Graphic file (type png)
  <use 01_exampleFigure.png>
-Package pdftex.def Info: 01_exampleFigure.png used on input line 81.
+Package pdftex.def Info: 01_exampleFigure.png used on input line 80.
 (pdftex.def)             Requested size: 341.11534pt x 341.13348pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\T1/aer/m/n/10 Latitude
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\T1/aer/m/n/10 Latitude
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\T1/aer/m/n/10 Longitude
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[]|\T1/aer/m/n/10 Longitude
+ []
 
 [2pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
 as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.93 \bibliographystyle
-                       {plainnat}] [3pdfTeX warning (ext4): destination with th
-e same identifier (name{figure.1}) has been already used, duplicate ignored
+l.117 \bibliographystyle
+                        {plainnat}pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.93 \bibliographystyle
-                       {plainnat} <./01_exampleFigure.png>] (./myreport.bbl)
+l.117 \bibliographystyle
+                        {plainnat}] [3pdfTeX warning (ext4): destination with t
+he same identifier (name{figure.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.117 \bibliographystyle
+                        {plainnat} <./01_exampleFigure.png>] (./myreport.bbl)
 
 AED: lastpage setting LastPage
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
  (./myreport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 122.
 Package rerunfilecheck Info: File `myreport.out' has not changed.
 (rerunfilecheck)             Checksum: BF8051D5AC3962A3A829080074CF02DA;461.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 34 (\begingroup)
+### semi simple group (level 1) entered at line 33 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8055 strings out of 493029
- 114659 string characters out of 6136233
- 208126 words of memory out of 5000000
- 11395 multiletter control sequences out of 15000+600000
+ 8057 strings out of 493029
+ 114680 string characters out of 6136233
+ 210189 words of memory out of 5000000
+ 11396 multiletter control sequences out of 15000+600000
  33199 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,14n,43p,800b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -640,15 +665,16 @@ t/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on myreport.pdf (13 pages, 305273 bytes).
+s/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/helvetic/uhvr8a.pfb>
+Output written on myreport.pdf (13 pages, 313756 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  88 words of extra memory for PDF output out of 10000 (max. 10000000)
 

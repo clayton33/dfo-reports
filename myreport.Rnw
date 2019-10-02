@@ -86,26 +86,18 @@ Here is an example of citing Table \ref{t:results}, and Figure \ref{f:results}.
 
 Here is an example of a table using xtable. For those interested, see the .Rnw file to see how it is created.
 
+<<echo=FALSE, results=hide>>=
+library(xtable)
+source('01_exampleTable.R')
+@
 
-% latex table generated in R 3.4.3 by xtable 1.8-2 package
-% Wed Oct  2 11:03:23 2019
-\begin{table}[ht]
-\centering
-\caption[Geographical boundaries for Maritime boxes]{Geographical boundary definitions for the 
-            Maritime boxes along the Scotian Shelf.} 
-\label{t:subRegions}
-\begin{tabular}{p{2in}p{.7in}p{.7in}p{.7in}p{.7in}}
- Box name & Latitude min ($^\circ$ N) & Latitude max ($^\circ$ N) & Longitude min ($^\circ$ W) & Longitude max ($^\circ$ W) \\ 
-  \hline
-Georges Bank (GB) & 41 & 42 & 68 & 66.5 \\ 
-  Central Scotian Shelf (CSS) & 43.33 & 44.33 & 64 & 62 \\ 
-  Eastern Scotian Shelf (ESS) & 44.2 & 45.67 & 60 & 58 \\ 
-  Western Scotian Shelf (WSS) & 42.5 & 43.33 & 65.5 & 64.5 \\ 
-  Cabot Strait (CS) & 46.9 & 48 & 60.4 & 59 \\ 
-  Lurcher Shoal (LS) & 43 & 44 & 66.7 & 66 \\ 
-   \hline
-\end{tabular}
-\end{table}
+<<echo=FALSE, results=tex>>=
+print(xtable(table, caption = caption, label='t:subRegions', align = align),
+      include.rownames = F, sanitize.colnames.function = identity,
+      sanitize.text.function = identity, hline.after = c(0, nrow(table)),
+      caption.placement = 'top')
+@
+
 
 And example of citing the table created with xtable, Table \ref{t:subRegions}.
 
