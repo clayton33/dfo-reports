@@ -160,8 +160,8 @@
 	Les rapports techniques sont produits \`{a} l'\'{e}chelon r\'{e}gional, mais num\'{e}rot\'{e}s \`{a} l'\'{e}chelon national.
 	Les demandes de rapports seront satisfaites par l'\'{e}tablissement auteur dont le nom figure sur la couverture et la page de titre.
 	\par
-	Les \'{e}tablissements de l’ancien secteur des Sciences et Lev\'{e}s oc\'{e}aniques dans les r\'{e}gions et \'{a}
- 	l'ad-ministration centrale ont cess\'{e} de publier leurs diverses s\'{e}ries de rapports en d\'{e}cembre 1981.  
+	Les \'{e}tablissements de l'ancien secteur des Sciences et Lev\'{e}s oc\'{e}aniques dans les r\'{e}gions et \'{a}
+ 	l'administration centrale ont cess\'{e} de publier leurs diverses s\'{e}ries de rapports en d\'{e}cembre 1981.  
 	Vous trouverez dans l'index des publications du volume 38 du \emph{Journal canadien des sciences halieutiques et aquatiques}, 
 	la liste de ces publications ainsi que le dernier num\'{e}ro paru dans chaque cat\'{e}gorie.  
 	La nouvelle s\'{e}rie a commenc\'{e} avec la publication du rapport num\'{e}ro 1 en janvier 1982.
