@@ -28,6 +28,7 @@
 \issnelectronic{1488-5417} %shouldn't change
 
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 \frontmatter
 \mainmatter
 \spacing{1.25} % 1.25 line spacing for document does not affect title and toc

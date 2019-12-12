@@ -112,7 +112,7 @@
 	\dfocoverfont{\@year}
 	\vfill
 	\LARGE
-	\dfocoverfont{\textbf{Canadian Technical Report of\\
+	\dfocoverfont{\textbf{Canadian Data Report of\\
 	Hydrography and Ocean Sciences \@reportnum}}
 	\lfoot{\includegraphics[height=7mm, keepaspectratio]{LogoDFO.png}} % save these in local directory /images ?
 	\cfoot{}
@@ -127,44 +127,31 @@
 	\lfoot{} \cfoot{\thepage} \rfoot{}
 	\thispagestyle{empty}
 	\begin{center}
-		\textbf{Canadian Technical Report of Hydrography and Ocean  Sciences}
+		\textbf{Canadian Data Report of Hydrography and Ocean  Sciences}
 	\end{center}
+	
 	\noindent
-	Technical reports contain scientific and technical information of a type that represents a contribution to existing knowledge but which is not normally found in the primary literature.  The subject matter is generally related to programs and interests of the Oceans and Science sectors of Fisheries and Oceans Canada.
+	Data reports provide a medium for the documentation and dissemination of data in a form directly useable by the scientific and engineering communities. Generally, the reports will contain raw and/or analyzed data but will not cntain interpretations of the data. Such compliations will commonly have been prepared in support of work related to the programs and interests of the Oceans and Science sectors of Fisheries and Oceans Canada.
 	\indent
 	\par
-	Technical reports may be cited as full publications.
-	The correct citation appears above the abstract of each report.
-	Each report is abstracted in the data base \emph{Aquatic Sciences and Fisheries Abstracts}.
+	The correct citation for data reports appears above the abstract of each report. Each report is abstracted in the data base \emph{Aquatic Sciences and Fisheries Abstracts}.
 	\par
-	Technical reports are produced regionally but are numbered nationally.  
-	Requests for individual reports will be filled by the issuing establishment listed on the front cover and title page.
+	Data reports are produced regionally but are numbered nationally. Requests for individual reports will be filled by the issueing establishement listed on the front cover and the title page.
 	\par
-	Regional and headquarters establishments of Ocean Science and Surveys ceased publication of their various report series as of December 1981.
-	A complete listing of these publications and the last number issued under each title are published in the \emph{ Canadian Journal of Fisheries and Aquatic Sciences}, Volume 38: Index to Publications 1981.
-	The current series began with Report Number 1 in January 1982.
+	Regional and headquarters establishments of the form Ocean Science and Surveys ceased publication of their various report series as of December 1981. A complete listing of these publications and the last number issued under each title are published in the \emph{ Canadian Journal of Fisheries and Aquatic Sciences}, Volume 38: Index to Publications 1981. The current series began with Report Number 1 in January 1982.
 	\bigskip
 	\begin{center}
-		\textbf{Rapport technique canadien sur l'hydrographie et les sciences oc\'{e}aniques}
+		\textbf{Rapport statistique canadien sur l'hydrographie et les sciences oc\'{e}aniques}
 	\end{center}
 	\noindent
-	Les rapports techniques contiennent des renseignements scientifiques et techniques qui constituent 
-	une contribution aux connaissances actuelles mais que l'on ne trouve pas normalement dans les revues scientifiques.  
-	Le sujet est g\'{e}n\'{e}ralement rattach\'{e} aux programmes et int\'{e}r\^{e}ts des secteurs des Oc\'{e}ans et des Sciences de P\^{e}ches et Oc\'{e}ans Canada.
+	Les rapports statistique servent de v\'{e}hicule pour la compilation et la diffusion des donn\'{e}es sous une forme directement utilisable par les scientifiques et les ing\'{e}nieurs. En g\'{e}n\'{e}ral, les rapports contiennent des donn\'{e}es brutes ou analys\'{e}es mais ne fournissent pas d-interpr\'{e}tations des donn\'{e}es. Ces complications sont pr\'{e}parr\'{e}es les plus souvent \`{a} l'appui de travaux reli\'{e}s aux programmes et int\'{e}r\^{e}ts des secteurs des Oc\'{e}ans et des Sciences de P\^{e}ches et Oc\'{e}ans Canada.
 	\indent
 	\par
-	Les rapports techniques peuvent \^{e}tre cit\'{e}s comme des publications \`{a} part enti\`{e}re. 
-	Le titre exact figure au-dessus du r\'{e}sum\'{e} de chaque rapport.  
-	Les rapports techniques sont r\'{e}sum\'{e}s dans la base de donn\'{e}es \emph{R\'{e}sum\'{e}s des sciences aquatiques et halieutiques}.
+	Le titre exact des rapports statistiques figure au-dessus du r\'{e}sum\'{e} de chaque rapport.	Les rapports statistiques sont r\'{e}sum\'{e}s dans la base de donn\'{e}es \emph{R\'{e}sum\'{e}s des sciences aquatiques et halieutiques}.
 	\par
-	Les rapports techniques sont produits \`{a} l'\'{e}chelon r\'{e}gional, mais num\'{e}rot\'{e}s \`{a} l'\'{e}chelon national.
-	Les demandes de rapports seront satisfaites par l'\'{e}tablissement auteur dont le nom figure sur la couverture et la page de titre.
+	Les rapports statistiques sont produits \`{a} l'\'{e}chelon r\'{e}gional, mais num\'{e}rot\'{e}s \`{a} l'\'{e}chelon national. Les demandes de rapports seront satisfaites par l'\'{e}tablissement auteur dont le nom figure sur la couverture et la page de titre.
 	\par
-	Les \'{e}tablissements de l’ancien secteur des Sciences et Lev\'{e}s oc\'{e}aniques dans les r\'{e}gions et \'{a}
- 	l'ad-ministration centrale ont cess\'{e} de publier leurs diverses s\'{e}ries de rapports en d\'{e}cembre 1981.  
-	Vous trouverez dans l'index des publications du volume 38 du \emph{Journal canadien des sciences halieutiques et aquatiques}, 
-	la liste de ces publications ainsi que le dernier num\'{e}ro paru dans chaque cat\'{e}gorie.  
-	La nouvelle s\'{e}rie a commenc\'{e} avec la publication du rapport num\'{e}ro 1 en janvier 1982.
+	Les \'{e}tablissements de l'ancien secteur des Sciences et Lev\'{e}s oc\'{e}aniques dans les r\'{e}gions et \'{a} l'administration centrale ont cess\'{e} de publier leurs diverses s\'{e}ries de rapports en d\'{e}cembre 1981. Vous trouverez dans l'index des publications du volume 38 du \emph{Journal canadien des sciences halieutiques et aquatiques}, la liste de ces publications ainsi que le dernier num\'{e}ro paru dans chaque cat\'{e}gorie. La nouvelle s\'{e}rie a commenc\'{e} avec la publication du rapport num\'{e}ro 1 en janvier 1982.
 	\clearpage
 	}
 

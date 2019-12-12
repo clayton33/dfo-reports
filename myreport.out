@@ -3,7 +3,11 @@
 \BOOKMARK [1][-]{section*.4}{ABSTRACT}{}% 3
 \BOOKMARK [1][-]{section*.5}{R\311SUM\311}{}% 4
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 5
-\BOOKMARK [2][-]{subsection.1.1}{Intro subsection}{section.1}% 6
-\BOOKMARK [3][-]{subsubsection.1.1.1}{Subsubsection}{subsection.1.1}% 7
-\BOOKMARK [1][-]{section.2}{Data}{}% 8
-\BOOKMARK [1][-]{section.3}{Discussion}{}% 9
+\BOOKMARK [1][-]{section.2}{Mooring Locations and Description}{}% 6
+\BOOKMARK [1][-]{section.3}{Data Processing}{}% 7
+\BOOKMARK [2][-]{subsubsection.3.0.1}{Current Speed and Direction Data, and Ice Drift}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.0.2}{Moored CTD Data}{subsubsection.3.0.1}% 9
+\BOOKMARK [3][-]{subsubsection.3.0.3}{Low-pass filtering}{subsubsection.3.0.1}% 10
+\BOOKMARK [3][-]{subsubsection.3.0.4}{Tidal Analysis}{subsubsection.3.0.1}% 11
+\BOOKMARK [1][-]{section.4}{Data Presentation}{}% 12
+\BOOKMARK [1][-]{section.5}{Acknowledgements}{}% 13
