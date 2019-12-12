@@ -55,17 +55,23 @@ In previous years a hydrographic survey was done along three transects (East Bar
 
 \section{Mooring Locations and Description}
 
-Typical mooring diagrams for the BSTRO are shown in figures X-X.  The map in Figure \ref{f:map} shows the approximate location of the Hub and Nodes, outside Gascoyne Inlet.  A summary of the moorings and instrumentation, including mooring positions, instrument depths and acquired data records, for each year, is presented in table X.
+Typical mooring diagrams for the BSTRO are shown in figures \ref{f:hub}-\ref{f:ips}.  The map in Figure \ref{f:map} shows the approximate location of the Hub and Nodes, outside Gascoyne Inlet.  A summary of the moorings and instrumentation, including mooring positions, instrument depths and acquired data records, for each year, is presented in table \ref{t:mooringSummary}. It's important to note that the IPS Node mooring was added to the observatory in 2014 so there were no ice draft measurements at the BSRTO location prior to August 2014.
   
-The ADCPs (307 kHz Workhorse Sentinel manufactured by Teledyne RD Instruments) and precision heading references (Watson Industries, Inc.) were mounted in streamlined buoyancy packages to provide current speed and direction information.  The technique used to obtain reliable direction measurements, where conventional compass technology is inadequate due to the proximity of the site to the magnetic pole, is described in detail by Hamilton [2004, 2001]. The ADCP was mounted upward looking with bottom tracking turned on to provide measurements of ice drift speed. They logged average current (and ice?) speed from 100 pings over a 5 minute on-period every 2 hours.
+The ADCP (307 kHz Workhorse Sentinel manufactured by Teledyne RD Instruments) and precision heading reference (Watson Industries, Inc.) was mounted in streamlined buoyancy packages to provide current speed and direction information.  The technique used to obtain reliable direction measurements, where conventional compass technology is inadequate due to the proximity of the site to the magnetic pole, is described in detail by Hamilton [2004, 2001]. The ADCP was mounted upward looking with bottom tracking turned on to provide measurements of ice drift speed. The ADCPs logged average current velocity and ice drift speed from 100 pings over a 5 minute on-period every 2 hours.
 
-SeaBird Microcat CTDs were used to measure temperature, conductivity, pressure, and sometimes oxygen, every 1 or 2 hours at targeted depths of 40, 60, 80 and 150 m. 
+SeaBird Microcat CTDs (SBE37-SM/SMP) were used to measure temperature, conductivity, and pressure every 1 or 2 hours at targeted depths of 40, 60, 80 and 150 m. In 2014, two CTDs (nominally at 40 and 60 m depths) were equiped with dissolved oxygen sensors (SBE37-SMP-ODO).
 
 Finally, the IPS, manufactured by ASL Environmental Sciences, measured ice draft every 3 second. Full processing of the IPS data is done by ASL and the details can be found in ASL [2018].
 
-\section{Data Processing}
+\section{Instrument setup and Data Processing}
 
 \subsubsection{Current Speed and Direction Data, and Ice Drift}
+
+The ADCPs were set to measure currents relative to the instrument axes, ignoring its own compass information.  The instrument was set to average over a depth interval of 4 m.  Current data above 8 m was rejected based on RDI's standard echo intensity quality criterion.  These acoustic Doppler current profilers also record ice drift velocity when there is 100\% or near-100\% ice cover.
+
+Direction was provided using an independent compass package mounted in the buoyancy package tail to give the orientation of the ADCP relative to magnetic north.  The compass sampling cycle was triggered by the commencement of the bihourly ADCP measurement by making use of Teledyne RDI’s “RDS3 interface” to provide a turn-on pulse to the compass.  The compass was programmed to take a 10 s sample in the middle of the 5 minute ADCP sampling interval.  This conserved compass battery power, and took advantage of previous experience that current direction does not change significantly over 5 minutes at the study location [Hamilton et al., 2003].  Direction records were then adjusted for the variation in magnetic declination using magnetic observatory data from the NRCAN observatory in Resolute to get direction relative to true north. 
+
+Vertical excursions of the WHADCPs caused by current drag forces acting on the mooring were typically small, with maximum dips over the entire deployment period of only 12 m, and dips exceeding 3 m less than 4\% of the time.  
 
 \subsubsection{Moored CTD Data}
 
@@ -633,10 +639,69 @@ This work is funded by the Canadian Department of Fisheries and Oceans and Defen
 
 \begin{table}[ht]
 \centering
-\caption[Microcat/ADCP statistical summary, 2011-2012]{Microcat/ADCP statistical summary, 2011-2016.} 
+\caption[Microcat/ADCP statistical summary, 2011-2012]{Microcat/ADCP statistical summary, 2011-2012.} 
 \label{t:ss_2011_2012}
 \begin{tabular}{p{0.3in}p{0.3in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}}
+\multicolumn{2}{c}{Depth (m)} & \multicolumn{4}{c}{\textbf{Temperature ($^\circ$ C)}} & \multicolumn{4}{c}{\textbf{Salinity (psu)}} & \multicolumn{4}{c}{\textbf{Density (Sigma-T)}} & \multicolumn{4}{c}{\textbf{Along-Strait Velocity (cm/s)}} & \multicolumn{4}{c}{\textbf{Cross-Strait Velocity (cm/s)}}\\\hline
+CTD & ADCP & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max \\ 
+\hline
+x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x 
+\\ 
+\hline  
+\end{tabular}
+\end{table}
 
+
+\begin{table}[ht]
+\centering
+\caption[Microcat/ADCP statistical summary, 2012-2013]{Microcat/ADCP statistical summary, 2012-2013.} 
+\label{t:ss_2012_2013}
+\begin{tabular}{p{0.3in}p{0.3in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}}
+\multicolumn{2}{c}{Depth (m)} & \multicolumn{4}{c}{\textbf{Temperature ($^\circ$ C)}} & \multicolumn{4}{c}{\textbf{Salinity (psu)}} & \multicolumn{4}{c}{\textbf{Density (Sigma-T)}} & \multicolumn{4}{c}{\textbf{Along-Strait Velocity (cm/s)}} & \multicolumn{4}{c}{\textbf{Cross-Strait Velocity (cm/s)}}\\\hline
+CTD & ADCP & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max \\ 
+\hline
+x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x 
+\\ 
+\hline  
+\end{tabular}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\caption[Microcat/ADCP statistical summary, 2013-2014]{Microcat/ADCP statistical summary, 2013-2014.} 
+\label{t:ss_2013_2014}
+\begin{tabular}{p{0.3in}p{0.3in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}}
+\multicolumn{2}{c}{Depth (m)} & \multicolumn{4}{c}{\textbf{Temperature ($^\circ$ C)}} & \multicolumn{4}{c}{\textbf{Salinity (psu)}} & \multicolumn{4}{c}{\textbf{Density (Sigma-T)}} & \multicolumn{4}{c}{\textbf{Along-Strait Velocity (cm/s)}} & \multicolumn{4}{c}{\textbf{Cross-Strait Velocity (cm/s)}}\\\hline
+CTD & ADCP & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max \\ 
+\hline
+x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x 
+\\ 
+\hline  
+\end{tabular}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\caption[Microcat/ADCP statistical summary, 2014-2015]{Microcat/ADCP statistical summary, 2014-2015.} 
+\label{t:ss_2014_2015}
+\begin{tabular}{p{0.3in}p{0.3in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}}
+\multicolumn{2}{c}{Depth (m)} & \multicolumn{4}{c}{\textbf{Temperature ($^\circ$ C)}} & \multicolumn{4}{c}{\textbf{Salinity (psu)}} & \multicolumn{4}{c}{\textbf{Density (Sigma-T)}} & \multicolumn{4}{c}{\textbf{Along-Strait Velocity (cm/s)}} & \multicolumn{4}{c}{\textbf{Cross-Strait Velocity (cm/s)}}\\\hline
+CTD & ADCP & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max \\ 
+\hline
+x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x 
+\\ 
+\hline  
+\end{tabular}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\caption[Microcat/ADCP statistical summary, 2015-2016]{Microcat/ADCP statistical summary, 2015-2016.} 
+\label{t:ss_2015_2016}
+\begin{tabular}{p{0.3in}p{0.3in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}p{.2in}}
 \multicolumn{2}{c}{Depth (m)} & \multicolumn{4}{c}{\textbf{Temperature ($^\circ$ C)}} & \multicolumn{4}{c}{\textbf{Salinity (psu)}} & \multicolumn{4}{c}{\textbf{Density (Sigma-T)}} & \multicolumn{4}{c}{\textbf{Along-Strait Velocity (cm/s)}} & \multicolumn{4}{c}{\textbf{Cross-Strait Velocity (cm/s)}}\\\hline
 CTD & ADCP & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max & Avg & SD & Min & Max \\ 
 \hline
@@ -650,8 +715,206 @@ x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & x & 
 
 
 
-
 \end{landscape}
+
+
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, M2, Ice Free, 2014]{Tidal constants for M2 constituent: Ice Free period, August 12 2014 - September 27 2014} 
+\label{t:m2_if_2014}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+12 & 0.17 & 0.00 & 181 & 192 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, S2, Ice Free, 2014]{Tidal constants for S2 constituent: Ice Free period, August 12 2014 - September 27 2014} 
+\label{t:s2_if_2014}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, K1, Ice Free, 2014]{Tidal constants for K1 constituent: Ice Free period, August 12 2014 - September 27 2014} 
+\label{t:k1_if_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, O1, Ice Free, 2014]{Tidal constants for O1 constituent: Ice Free period, August 12 2014 - September 27 2014} 
+\label{t:o1_if_2014}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, P1, Ice Free, 2014]{Tidal constants for P1 constituent: Ice Free period, August 12 2014 - September 27 2014} 
+\label{t:p1_if_2014}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+
+\clearpage
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, M2, Ice Free, 2015]{Tidal constants for M2 constituent: Ice Free period, July 15 2015 - September 27 2015} 
+\label{t:m2_if_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+12 & 0.17 & 0.00 & 181 & 192 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, S2, Ice Free, 2015]{Tidal constants for S2 constituent: Ice Free period, July 15 2015 - September 27 2015} 
+\label{t:s2_if_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, K1, Ice Free, 2015]{Tidal constants for K1 constituent: Ice Free period, July 15 2015 - September 27 2015} 
+\label{t:k1_if_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, O1, Ice Free, 2015]{Tidal constants for O1 constituent: Ice Free period, July 15 2015 - September 27 2015} 
+\label{t:o1_if_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, P1, Ice Free, 2015]{Tidal constants for P1 constituent: Ice Free period, July 15 2015 - September 27 2015} 
+\label{t:p1_if_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+   \hline
+\end{tabular}
+\end{table}
+
+
+
+\clearpage
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, M2, Solid Ice, 2015]{Tidal constants for M2 constituent: Solid ice period, March 1 2016 - June 1 2016} 
+\label{t:m2_si_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+12 & 0.17 & 0.00 & 181 & 192 \\
+   \hline
+\end{tabular}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, S2, Solid Ice, 2015]{Tidal constants for S2 constituent: Solid ice period, March 1 2016 - June 1 2016} 
+\label{t:s2_si_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+12 & 0.17 & 0.00 & 181 & 192 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, K1, Solid Ice, 2015]{Tidal constants for K1 constituent: Solid ice period, March 1 2016 - June 1 2016} 
+\label{t:k1_si_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+12 & 0.17 & 0.00 & 181 & 192 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, O1, Solid Ice, 2015]{Tidal constants for O1 constituent: Solid ice period, March 1 2016 - June 1 2016} 
+\label{t:o1_si_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+12 & 0.17 & 0.00 & 181 & 192 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption[Tidal Constituents, P1, Solid Ice, 2015]{Tidal constants for P1 constituent: Solid ice period, March 1 2016 - June 1 2016} 
+\label{t:p1_si_2015}
+\begin{tabular}{p{0.3in}p{.7in}p{.7in}p{.7in}p{.7in}}
+ Dpeth (m) & Major Amplitude (cm/s) & Minor Amplitude (cm/s) & Orientation (degrees cc from East) & Greenwich Phase (degrees) \\ 
+  \hline
+8 & 0.17 & 0.00 & 177 & 191 \\
+12 & 0.17 & 0.00 & 181 & 192 \\
+   \hline
+\end{tabular}
+\end{table}
+
+
 
 
 \end{document}
