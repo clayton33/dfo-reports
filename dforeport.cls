@@ -131,7 +131,7 @@
 	\end{center}
 	
 	\noindent
-	Data reports provide a medium for the documentation and dissemination of data in a form directly useable by the scientific and engineering communities. Generally, the reports will contain raw and/or analyzed data but will not cntain interpretations of the data. Such compliations will commonly have been prepared in support of work related to the programs and interests of the Oceans and Science sectors of Fisheries and Oceans Canada.
+	Data reports provide a medium for the documentation and dissemination of data in a form directly useable by the scientific and engineering communities. Generally, the reports will contain raw and/or analyzed data but will not contain interpretations of the data. Such compliations will have commonly been prepared in support of work related to the programs and interests of the Oceans and Science sectors of Fisheries and Oceans Canada.
 	\indent
 	\par
 	The correct citation for data reports appears above the abstract of each report. Each report is abstracted in the data base \emph{Aquatic Sciences and Fisheries Abstracts}.
@@ -210,6 +210,10 @@
 	\reportcitation
 	\bigskip
 	\reportabstract{}
+	
+The Barrow Strait Real-Time Observatory was initially deploy in 2011 as an extension of the Barrow Strait Monitoring Program. Instrumented moorings provide records of currents, temperature, salinity, oxygen, and ice drift and ice draft. The report covers the first 5 years (2011-2016) of data from the observatory moorings. The current and ice drift data were collected with acoustic Dopper current profilers (ADCPs) and specialized instrumentation for near-pole direction measurements. Temperature, salinity, density and oxygen (when avaiable) from mooring Microcat CTDs are also presented. The current and CTD data are presented as filtered and unfiltered time series, spectral and tidal analyses, and statistical summaries. Finally, an Ice Profiling Sonar (IPS) provides records of ice draft which are presented as monthly time series, histograms and statistical summary.
+	
+	
 	\clearpage
 	\section*{R\'{E}SUM\'{E}}\addcontentsline{toc}{section}{R\'{E}SUM\'{E}}
 	\reportcitation{}

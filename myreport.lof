@@ -1,70 +1,70 @@
 \baselineskip =0.8\baselineskip 
-\contentsline {figure}{\numberline {1}{\ignorespaces Map of field site}}{4}{figure.1}
-\contentsline {figure}{\numberline {2}{\ignorespaces Mooring Diagram: Hub}}{5}{figure.2}
-\contentsline {figure}{\numberline {3}{\ignorespaces Mooring Diagram: ADCP Node}}{6}{figure.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Mooring Diagram: IPS node}}{7}{figure.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Moored CTD, August 2011-2012}}{8}{figure.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Moored CTD, August 2012-2013}}{9}{figure.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Moored CTD, August 2013-2014}}{10}{figure.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Moored CTD, August 2014-2015}}{11}{figure.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces Moored CTD, August 2015-2016}}{12}{figure.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Power spectra of moored CTD, 2011-2012}}{13}{figure.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Power spectra of moored CTD, 2012-2013}}{14}{figure.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Power spectra of moored CTD, 2013-2014}}{15}{figure.12}
-\contentsline {figure}{\numberline {13}{\ignorespaces Power spectra of moored CTD, 2014-2015}}{16}{figure.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Power spectra of moored CTD, 2015-2016}}{17}{figure.14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Bi-hourly ADCP data, Sept. 1 - Sept 20, 2014}}{18}{figure.15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Low-pass filtered ADCP data, 2014-2015}}{19}{figure.16}
-\contentsline {figure}{\numberline {17}{\ignorespaces Low-pass filtered ADCP data, 2015-2016}}{20}{figure.17}
-\contentsline {figure}{\numberline {18}{\ignorespaces Low-pass filtered T, S (43 m), 2011-2012}}{21}{figure.18}
-\contentsline {figure}{\numberline {19}{\ignorespaces Low-pass filtered T, S (63 m), 2011-2012}}{22}{figure.19}
-\contentsline {figure}{\numberline {20}{\ignorespaces Low-pass filtered T, S (120 m), 2011-2012}}{23}{figure.20}
-\contentsline {figure}{\numberline {21}{\ignorespaces Low-pass filtered T, S (41 m), 2012-2013}}{24}{figure.21}
-\contentsline {figure}{\numberline {22}{\ignorespaces Low-pass filtered T, S (81 m), 2012-2013}}{25}{figure.22}
-\contentsline {figure}{\numberline {23}{\ignorespaces Low-pass filtered T, S (155 m), 2012-2013}}{26}{figure.23}
-\contentsline {figure}{\numberline {24}{\ignorespaces Low-pass filtered T, S (41 m), 2013-2014}}{27}{figure.24}
-\contentsline {figure}{\numberline {25}{\ignorespaces Low-pass filtered T, S (81 m), 2013-2014}}{28}{figure.25}
-\contentsline {figure}{\numberline {26}{\ignorespaces Low-pass filtered T, S (155 m), 2013-2014}}{29}{figure.26}
-\contentsline {figure}{\numberline {27}{\ignorespaces Low-pass filtered T, S (35 m), 2014-2015}}{30}{figure.27}
-\contentsline {figure}{\numberline {28}{\ignorespaces Low-pass filtered T, S (47 m), 2014-2015}}{31}{figure.28}
-\contentsline {figure}{\numberline {29}{\ignorespaces Low-pass filtered T, S (81 m), 2014-2015}}{32}{figure.29}
-\contentsline {figure}{\numberline {30}{\ignorespaces Low-pass filtered T, S (155 m), 2014-2015}}{33}{figure.30}
-\contentsline {figure}{\numberline {31}{\ignorespaces Low-pass filtered T, S (35 m), 2015-2016}}{34}{figure.31}
-\contentsline {figure}{\numberline {32}{\ignorespaces Low-pass filtered T, S (47 m), 2015-2016}}{35}{figure.32}
-\contentsline {figure}{\numberline {33}{\ignorespaces Low-pass filtered T, S (81 m), 2015-2016}}{36}{figure.33}
-\contentsline {figure}{\numberline {34}{\ignorespaces Low-pass filtered T, S (155 m), 2015-2016}}{37}{figure.34}
-\contentsline {figure}{\numberline {35}{\ignorespaces Mean flow, 2014-2015}}{37}{figure.35}
-\contentsline {figure}{\numberline {36}{\ignorespaces Mean flow, 2015-2016}}{38}{figure.36}
-\contentsline {figure}{\numberline {37}{\ignorespaces Mean flow, Late Summer, 2014}}{38}{figure.37}
-\contentsline {figure}{\numberline {38}{\ignorespaces Mean flow, Late Summer, 2015}}{39}{figure.38}
-\contentsline {figure}{\numberline {39}{\ignorespaces Mean flow, Fall, 2014}}{39}{figure.39}
-\contentsline {figure}{\numberline {40}{\ignorespaces Mean flow, Fall, 2015}}{40}{figure.40}
-\contentsline {figure}{\numberline {41}{\ignorespaces Mean flow, Winter, 2015}}{40}{figure.41}
-\contentsline {figure}{\numberline {42}{\ignorespaces Mean flow, Winter, 2016}}{41}{figure.42}
-\contentsline {figure}{\numberline {43}{\ignorespaces Mean flow, Spring, 2015}}{41}{figure.43}
-\contentsline {figure}{\numberline {44}{\ignorespaces Mean flow, Spring, 2016}}{42}{figure.44}
-\contentsline {figure}{\numberline {45}{\ignorespaces Mean flow, Early Summer, 2015}}{42}{figure.45}
-\contentsline {figure}{\numberline {46}{\ignorespaces Mean flow, Early Summer, 2016}}{43}{figure.46}
-\contentsline {figure}{\numberline {47}{\ignorespaces M2 Tidal Constituents, Ice free, 2014}}{43}{figure.47}
-\contentsline {figure}{\numberline {48}{\ignorespaces S2 Tidal Constituents, Ice free, 2014}}{44}{figure.48}
-\contentsline {figure}{\numberline {49}{\ignorespaces K1 Tidal Constituents, Ice free, 2014}}{44}{figure.49}
-\contentsline {figure}{\numberline {50}{\ignorespaces O1 Tidal Constituents, Ice free, 2014}}{45}{figure.50}
-\contentsline {figure}{\numberline {51}{\ignorespaces P1 Tidal Constituents, Ice free, 2014}}{45}{figure.51}
-\contentsline {figure}{\numberline {52}{\ignorespaces M2 Tidal Constituents, Ice free, 2015}}{46}{figure.52}
-\contentsline {figure}{\numberline {53}{\ignorespaces M2 Tidal Constituents, Solid Ice, 2015}}{46}{figure.53}
-\contentsline {figure}{\numberline {54}{\ignorespaces S2 Tidal Constituents, Ice free, 2015}}{47}{figure.54}
-\contentsline {figure}{\numberline {55}{\ignorespaces S2 Tidal Constituents, Solid Ice, 2015}}{47}{figure.55}
-\contentsline {figure}{\numberline {56}{\ignorespaces K1 Tidal Constituents, Ice free, 2015}}{48}{figure.56}
-\contentsline {figure}{\numberline {57}{\ignorespaces K1 Tidal Constituents, Solid Ice, 2015}}{48}{figure.57}
-\contentsline {figure}{\numberline {58}{\ignorespaces O1 Tidal Constituents, Ice free, 2015}}{49}{figure.58}
-\contentsline {figure}{\numberline {59}{\ignorespaces O1 Tidal Constituents, Solid Ice, 2015}}{49}{figure.59}
-\contentsline {figure}{\numberline {60}{\ignorespaces P1 Tidal Constituents, Ice free, 2015}}{50}{figure.60}
-\contentsline {figure}{\numberline {61}{\ignorespaces P1 Tidal Constituents, Solid Ice, 2015}}{50}{figure.61}
-\contentsline {figure}{\numberline {62}{\ignorespaces Ice Draft, 2014-2015}}{51}{figure.62}
-\contentsline {figure}{\numberline {63}{\ignorespaces Ice Draft, 2015-2016}}{52}{figure.63}
-\contentsline {figure}{\numberline {64}{\ignorespaces Histograms of ice draft, 2014-2015}}{53}{figure.64}
-\contentsline {figure}{\numberline {65}{\ignorespaces Histograms of ice draft, 2015-2016}}{54}{figure.65}
-\contentsline {figure}{\numberline {66}{\ignorespaces Ice draft Statistics, 2014-2015}}{55}{figure.66}
-\contentsline {figure}{\numberline {67}{\ignorespaces Ice draft Statistics, 2015-2016}}{55}{figure.67}
-\contentsline {figure}{\numberline {68}{\ignorespaces Ice Velocity, 2014-2015}}{56}{figure.68}
-\contentsline {figure}{\numberline {69}{\ignorespaces Ice Velocity, 2015-2016}}{56}{figure.69}
+\contentsline {figure}{\numberline {1}{\ignorespaces Map of field site}}{7}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Mooring Diagram: hub}}{8}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Mooring Diagram: ADCP node}}{9}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Mooring Diagram: IPS node}}{10}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Moored CTD, August 2011-2012}}{11}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Moored CTD, August 2012-2013}}{12}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Moored CTD, August 2013-2014}}{13}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Moored CTD, August 2014-2015}}{14}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Moored CTD, August 2015-2016}}{15}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Low-pass filtered T, S (43 m), 2011-2012}}{16}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Low-pass filtered T, S (63 m), 2011-2012}}{17}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Low-pass filtered T, S (120 m), 2011-2012}}{18}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Low-pass filtered T, S (41 m), 2012-2013}}{19}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Low-pass filtered T, S (81 m), 2012-2013}}{20}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Low-pass filtered T, S (155 m), 2012-2013}}{21}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Low-pass filtered T, S (41 m), 2013-2014}}{22}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Low-pass filtered T, S (81 m), 2013-2014}}{23}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Low-pass filtered T, S (155 m), 2013-2014}}{24}{figure.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Low-pass filtered T, S (35 m), 2014-2015}}{25}{figure.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Low-pass filtered T, S (47 m), 2014-2015}}{26}{figure.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Low-pass filtered T, S (81 m), 2014-2015}}{27}{figure.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces Low-pass filtered T, S (155 m), 2014-2015}}{28}{figure.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Low-pass filtered T, S (35 m), 2015-2016}}{29}{figure.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Low-pass filtered T, S (47 m), 2015-2016}}{30}{figure.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Low-pass filtered T, S (81 m), 2015-2016}}{31}{figure.25}
+\contentsline {figure}{\numberline {26}{\ignorespaces Low-pass filtered T, S (155 m), 2015-2016}}{32}{figure.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Power spectra of moored CTD, 2011-2012}}{33}{figure.27}
+\contentsline {figure}{\numberline {28}{\ignorespaces Power spectra of moored CTD, 2012-2013}}{34}{figure.28}
+\contentsline {figure}{\numberline {29}{\ignorespaces Power spectra of moored CTD, 2013-2014}}{35}{figure.29}
+\contentsline {figure}{\numberline {30}{\ignorespaces Power spectra of moored CTD, 2014-2015}}{36}{figure.30}
+\contentsline {figure}{\numberline {31}{\ignorespaces Power spectra of moored CTD, 2015-2016}}{37}{figure.31}
+\contentsline {figure}{\numberline {32}{\ignorespaces Bi-hourly ADCP data, Sept. 1 - Sept 30, 2014}}{38}{figure.32}
+\contentsline {figure}{\numberline {33}{\ignorespaces Low-pass filtered ADCP data, 2014-2015}}{39}{figure.33}
+\contentsline {figure}{\numberline {34}{\ignorespaces Low-pass filtered ADCP data, 2015-2016}}{40}{figure.34}
+\contentsline {figure}{\numberline {35}{\ignorespaces Mean flow, 2014-2015}}{40}{figure.35}
+\contentsline {figure}{\numberline {36}{\ignorespaces Mean flow, 2015-2016}}{41}{figure.36}
+\contentsline {figure}{\numberline {37}{\ignorespaces Mean flow, Late Summer, 2014}}{41}{figure.37}
+\contentsline {figure}{\numberline {38}{\ignorespaces Mean flow, Late Summer, 2015}}{42}{figure.38}
+\contentsline {figure}{\numberline {39}{\ignorespaces Mean flow, Fall, 2014}}{42}{figure.39}
+\contentsline {figure}{\numberline {40}{\ignorespaces Mean flow, Fall, 2015}}{43}{figure.40}
+\contentsline {figure}{\numberline {41}{\ignorespaces Mean flow, Winter, 2015}}{43}{figure.41}
+\contentsline {figure}{\numberline {42}{\ignorespaces Mean flow, Winter, 2016}}{44}{figure.42}
+\contentsline {figure}{\numberline {43}{\ignorespaces Mean flow, Spring, 2015}}{44}{figure.43}
+\contentsline {figure}{\numberline {44}{\ignorespaces Mean flow, Spring, 2016}}{45}{figure.44}
+\contentsline {figure}{\numberline {45}{\ignorespaces Mean flow, Early Summer, 2015}}{45}{figure.45}
+\contentsline {figure}{\numberline {46}{\ignorespaces Mean flow, Early Summer, 2016}}{46}{figure.46}
+\contentsline {figure}{\numberline {47}{\ignorespaces M2 Tidal Constituents, Ice free, 2014}}{46}{figure.47}
+\contentsline {figure}{\numberline {48}{\ignorespaces S2 Tidal Constituents, Ice free, 2014}}{47}{figure.48}
+\contentsline {figure}{\numberline {49}{\ignorespaces K1 Tidal Constituents, Ice free, 2014}}{47}{figure.49}
+\contentsline {figure}{\numberline {50}{\ignorespaces O1 Tidal Constituents, Ice free, 2014}}{48}{figure.50}
+\contentsline {figure}{\numberline {51}{\ignorespaces P1 Tidal Constituents, Ice free, 2014}}{48}{figure.51}
+\contentsline {figure}{\numberline {52}{\ignorespaces M2 Tidal Constituents, Ice free, 2015}}{49}{figure.52}
+\contentsline {figure}{\numberline {53}{\ignorespaces M2 Tidal Constituents, Solid Ice, 2015}}{49}{figure.53}
+\contentsline {figure}{\numberline {54}{\ignorespaces S2 Tidal Constituents, Ice free, 2015}}{50}{figure.54}
+\contentsline {figure}{\numberline {55}{\ignorespaces S2 Tidal Constituents, Solid Ice, 2015}}{50}{figure.55}
+\contentsline {figure}{\numberline {56}{\ignorespaces K1 Tidal Constituents, Ice free, 2015}}{51}{figure.56}
+\contentsline {figure}{\numberline {57}{\ignorespaces K1 Tidal Constituents, Solid Ice, 2015}}{51}{figure.57}
+\contentsline {figure}{\numberline {58}{\ignorespaces O1 Tidal Constituents, Ice free, 2015}}{52}{figure.58}
+\contentsline {figure}{\numberline {59}{\ignorespaces O1 Tidal Constituents, Solid Ice, 2015}}{52}{figure.59}
+\contentsline {figure}{\numberline {60}{\ignorespaces P1 Tidal Constituents, Ice free, 2015}}{53}{figure.60}
+\contentsline {figure}{\numberline {61}{\ignorespaces P1 Tidal Constituents, Solid Ice, 2015}}{53}{figure.61}
+\contentsline {figure}{\numberline {62}{\ignorespaces Ice Draft, 2014-2015}}{54}{figure.62}
+\contentsline {figure}{\numberline {63}{\ignorespaces Ice Draft, 2015-2016}}{55}{figure.63}
+\contentsline {figure}{\numberline {64}{\ignorespaces Histograms of ice draft, 2014-2015}}{56}{figure.64}
+\contentsline {figure}{\numberline {65}{\ignorespaces Histograms of ice draft, 2015-2016}}{57}{figure.65}
+\contentsline {figure}{\numberline {66}{\ignorespaces Ice draft Statistics, 2014-2015}}{58}{figure.66}
+\contentsline {figure}{\numberline {67}{\ignorespaces Ice draft Statistics, 2015-2016}}{58}{figure.67}
+\contentsline {figure}{\numberline {68}{\ignorespaces Ice Velocity, 2014-2015}}{59}{figure.68}
+\contentsline {figure}{\numberline {69}{\ignorespaces Ice Velocity, 2015-2016}}{59}{figure.69}

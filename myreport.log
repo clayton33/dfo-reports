@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.15)  12 DEC 2019 11:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.15)  24 JAN 2020 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,46 +495,72 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \mult@nat@firstbox=\box57
 \colbreak@box=\box58
 \mc@col@check@num=\count124
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count125
+\@cmidlb=\count126
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count127
+\@lastruleclass=\count128
+\@thisrulewidth=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip74
+\multirow@cntb=\count129
+\multirow@dima=\skip75
+\bigstrutjot=\dimen152
 ) (./myreport.aux)
 \openout1 = `myreport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 35.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 35.
+(lastpage)             ! on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
-\scratchdimen=\dimen139
+\scratchcounter=\count130
+\scratchdimen=\dimen153
 \scratchbox=\box59
-\nofMPsegments=\count126
-\nofMParguments=\count127
+\nofMPsegments=\count131
+\nofMParguments=\count132
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count128
-\MPscratchDim=\dimen140
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
+\MPscratchCnt=\count133
+\MPscratchDim=\dimen154
+\MPnumerator=\count134
+\makeMPintoPDFobject=\count135
 \everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -554,7 +580,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -562,33 +588,33 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count131
+\c@section@level=\count136
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
 
 (./myreport.out) (./myreport.out)
 \@outlinefile=\write4
 \openout4 = `myreport.out'.
 
  (./myreport-concordance.tex)
-LaTeX Font Info:    Try loading font information for T1+phv on input line 37.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
-<LogoDFO.png, id=56, 1211.2452pt x 128.1588pt>
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 40.
+<LogoDFO.png, id=64, 1211.2452pt x 128.1588pt>
 File: LogoDFO.png Graphic file (type png)
 <use LogoDFO.png>
-Package pdftex.def Info: LogoDFO.png  used on input line 37.
+Package pdftex.def Info: LogoDFO.png  used on input line 40.
 (pdftex.def)             Requested size: 188.22159pt x 19.91524pt.
-<LogoCanada.jpg, id=57, 505.89pt x 159.4758pt>
+<LogoCanada.jpg, id=65, 505.89pt x 159.4758pt>
 File: LogoCanada.jpg Graphic file (type jpg)
 <use LogoCanada.jpg>
-Package pdftex.def Info: LogoCanada.jpg  used on input line 37.
+Package pdftex.def Info: LogoCanada.jpg  used on input line 40.
 (pdftex.def)             Requested size: 63.17433pt x 19.91495pt.
  [1
 
@@ -596,17 +622,17 @@ Package pdftex.def Info: LogoCanada.jpg  used on input line 37.
 da.jpg>] [2
 
 ]
-LaTeX Info: Redefining \\ on input line 37.
+LaTeX Info: Redefining \\ on input line 40.
 
 [3
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+aer on input line 37.
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 40.
  (/usr/share/texmf/tex/latex/R/tex/latex/ts1aer.fd
 File: ts1aer.fd 
 )
 LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10> not available
-(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 37.
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 40.
  [4
 
 ] (./myreport.toc)
@@ -635,1121 +661,1257 @@ LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10> not available
 ] [1
 
 
-]
+] [2] [3]
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 68.
+LaTeX Warning: Reference `t:m2_if_2014' on page 4 undefined on input line 117.
 
-[2] (./myreport.bbl
 
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
+LaTeX Warning: Reference `t:p1_si_2015' on page 4 undefined on input line 117.
 
-) [3]
-<./figures/01_BSFieldSiteOverview.png, id=288, 433.62pt x 289.08pt>
+[4] [5] (./myreport.bbl) [6]
+<./figures/01_BSFieldSiteOverview.png, id=381, 433.62pt x 289.08pt>
 File: ./figures/01_BSFieldSiteOverview.png Graphic file (type png)
 <use ./figures/01_BSFieldSiteOverview.png>
 Package pdftex.def Info: ./figures/01_BSFieldSiteOverview.png  used on input li
-ne 97.
+ne 165.
 (pdftex.def)             Requested size: 341.11534pt x 227.42232pt.
-<./figures/HUB.png, id=289, 614.295pt x 794.97pt>
+<./figures/HUB.png, id=382, 614.295pt x 794.97pt>
 File: ./figures/HUB.png Graphic file (type png)
 <use ./figures/HUB.png>
-Package pdftex.def Info: ./figures/HUB.png  used on input line 106.
+Package pdftex.def Info: ./figures/HUB.png  used on input line 174.
 (pdftex.def)             Requested size: 341.11534pt x 441.44405pt.
-<./figures/ADCP.png, id=291, 614.295pt x 794.97pt>
+<./figures/ADCP.png, id=384, 614.295pt x 794.97pt>
 File: ./figures/ADCP.png Graphic file (type png)
 <use ./figures/ADCP.png>
-Package pdftex.def Info: ./figures/ADCP.png  used on input line 113.
+Package pdftex.def Info: ./figures/ADCP.png  used on input line 181.
 (pdftex.def)             Requested size: 341.11534pt x 441.44405pt.
-<./figures/IPS.png, id=292, 614.295pt x 794.97pt>
+<./figures/IPS.png, id=385, 614.295pt x 794.97pt>
 File: ./figures/IPS.png Graphic file (type png)
 <use ./figures/IPS.png>
-Package pdftex.def Info: ./figures/IPS.png  used on input line 120.
+Package pdftex.def Info: ./figures/IPS.png  used on input line 188.
 (pdftex.def)             Requested size: 341.11534pt x 441.44405pt.
-<./figures/05_mctd_2011_2012.png, id=293, 578.16pt x 722.7pt>
+<./figures/05_mctd_2011_2012.png, id=386, 578.16pt x 722.7pt>
 File: ./figures/05_mctd_2011_2012.png Graphic file (type png)
 <use ./figures/05_mctd_2011_2012.png>
-Package pdftex.def Info: ./figures/05_mctd_2011_2012.png  used on input line 12
-9.
-(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/06_mctd_2012_2013.png, id=294, 578.16pt x 722.7pt>
-File: ./figures/06_mctd_2012_2013.png Graphic file (type png)
-<use ./figures/06_mctd_2012_2013.png>
-Package pdftex.def Info: ./figures/06_mctd_2012_2013.png  used on input line 13
-6.
-(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/07_mctd_2013_2014.png, id=295, 578.16pt x 722.7pt>
-File: ./figures/07_mctd_2013_2014.png Graphic file (type png)
-<use ./figures/07_mctd_2013_2014.png>
-Package pdftex.def Info: ./figures/07_mctd_2013_2014.png  used on input line 14
-3.
-(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/08_mctd_2014_2015.png, id=296, 578.16pt x 722.7pt>
-File: ./figures/08_mctd_2014_2015.png Graphic file (type png)
-<use ./figures/08_mctd_2014_2015.png>
-Package pdftex.def Info: ./figures/08_mctd_2014_2015.png  used on input line 15
-0.
-(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/09_mctd_2015_2016.png, id=297, 578.16pt x 722.7pt>
-File: ./figures/09_mctd_2015_2016.png Graphic file (type png)
-<use ./figures/09_mctd_2015_2016.png>
-Package pdftex.def Info: ./figures/09_mctd_2015_2016.png  used on input line 15
+Package pdftex.def Info: ./figures/05_mctd_2011_2012.png  used on input line 19
 7.
 (pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/10_mctd_ps_2011_2012.png, id=298, 578.16pt x 722.7pt>
-File: ./figures/10_mctd_ps_2011_2012.png Graphic file (type png)
-<use ./figures/10_mctd_ps_2011_2012.png>
-Package pdftex.def Info: ./figures/10_mctd_ps_2011_2012.png  used on input line
- 166.
+<./figures/06_mctd_2012_2013.png, id=387, 578.16pt x 722.7pt>
+File: ./figures/06_mctd_2012_2013.png Graphic file (type png)
+<use ./figures/06_mctd_2012_2013.png>
+Package pdftex.def Info: ./figures/06_mctd_2012_2013.png  used on input line 20
+4.
 (pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/11_mctd_ps_2012_2013.png, id=299, 578.16pt x 722.7pt>
-File: ./figures/11_mctd_ps_2012_2013.png Graphic file (type png)
-<use ./figures/11_mctd_ps_2012_2013.png>
-Package pdftex.def Info: ./figures/11_mctd_ps_2012_2013.png  used on input line
- 173.
+<./figures/07_mctd_2013_2014.png, id=388, 578.16pt x 722.7pt>
+File: ./figures/07_mctd_2013_2014.png Graphic file (type png)
+<use ./figures/07_mctd_2013_2014.png>
+Package pdftex.def Info: ./figures/07_mctd_2013_2014.png  used on input line 21
+1.
 (pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/12_mctd_ps_2013_2014.png, id=300, 578.16pt x 722.7pt>
-File: ./figures/12_mctd_ps_2013_2014.png Graphic file (type png)
-<use ./figures/12_mctd_ps_2013_2014.png>
-Package pdftex.def Info: ./figures/12_mctd_ps_2013_2014.png  used on input line
- 180.
-(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/13_mctd_ps_2014_2015.png, id=301, 578.16pt x 722.7pt>
-File: ./figures/13_mctd_ps_2014_2015.png Graphic file (type png)
-<use ./figures/13_mctd_ps_2014_2015.png>
-Package pdftex.def Info: ./figures/13_mctd_ps_2014_2015.png  used on input line
- 187.
-(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/14_mctd_ps_2015_2016.png, id=302, 578.16pt x 722.7pt>
-File: ./figures/14_mctd_ps_2015_2016.png Graphic file (type png)
-<use ./figures/14_mctd_ps_2015_2016.png>
-Package pdftex.def Info: ./figures/14_mctd_ps_2015_2016.png  used on input line
- 194.
-(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/15_madcp_2014.png, id=303, 578.16pt x 578.16pt>
-File: ./figures/15_madcp_2014.png Graphic file (type png)
-<use ./figures/15_madcp_2014.png>
-Package pdftex.def Info: ./figures/15_madcp_2014.png  used on input line 203.
-(pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/17_madcp_lpf_2014_2015.png, id=304, 578.16pt x 578.16pt>
-File: ./figures/17_madcp_lpf_2014_2015.png Graphic file (type png)
-<use ./figures/17_madcp_lpf_2014_2015.png>
-Package pdftex.def Info: ./figures/17_madcp_lpf_2014_2015.png  used on input li
-ne 210.
-(pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/18_madcp_lpf_2015_2016.png, id=305, 578.16pt x 578.16pt>
-File: ./figures/18_madcp_lpf_2015_2016.png Graphic file (type png)
-<use ./figures/18_madcp_lpf_2015_2016.png>
-Package pdftex.def Info: ./figures/18_madcp_lpf_2015_2016.png  used on input li
-ne 217.
-(pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/19_lpf_TS_43m_2011_2012.png, id=306, 578.16pt x 578.16pt>
+<./figures/08_mctd_2014_2015.png, id=389, 578.16pt x 867.24pt>
+File: ./figures/08_mctd_2014_2015.png Graphic file (type png)
+<use ./figures/08_mctd_2014_2015.png>
+Package pdftex.def Info: ./figures/08_mctd_2014_2015.png  used on input line 21
+8.
+(pdftex.def)             Requested size: 341.11534pt x 511.66718pt.
+<./figures/09_mctd_2015_2016.png, id=390, 578.16pt x 867.24pt>
+File: ./figures/09_mctd_2015_2016.png Graphic file (type png)
+<use ./figures/09_mctd_2015_2016.png>
+Package pdftex.def Info: ./figures/09_mctd_2015_2016.png  used on input line 22
+5.
+(pdftex.def)             Requested size: 341.11534pt x 511.66718pt.
+<./figures/19_lpf_TS_43m_2011_2012.png, id=391, 578.16pt x 578.16pt>
 File: ./figures/19_lpf_TS_43m_2011_2012.png Graphic file (type png)
 <use ./figures/19_lpf_TS_43m_2011_2012.png>
 Package pdftex.def Info: ./figures/19_lpf_TS_43m_2011_2012.png  used on input l
-ine 226.
+ine 235.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/20_lpf_TS_63m_2011_2012.png, id=307, 578.16pt x 578.16pt>
+<./figures/20_lpf_TS_63m_2011_2012.png, id=392, 578.16pt x 578.16pt>
 File: ./figures/20_lpf_TS_63m_2011_2012.png Graphic file (type png)
 <use ./figures/20_lpf_TS_63m_2011_2012.png>
 Package pdftex.def Info: ./figures/20_lpf_TS_63m_2011_2012.png  used on input l
-ine 233.
+ine 242.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/21_lpf_TS_120m_2011_2012.png, id=308, 578.16pt x 578.16pt>
+<./figures/21_lpf_TS_120m_2011_2012.png, id=393, 578.16pt x 578.16pt>
 File: ./figures/21_lpf_TS_120m_2011_2012.png Graphic file (type png)
 <use ./figures/21_lpf_TS_120m_2011_2012.png>
 Package pdftex.def Info: ./figures/21_lpf_TS_120m_2011_2012.png  used on input 
-line 240.
+line 249.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/22_lpf_TS_41m_2012_2013.png, id=309, 578.16pt x 578.16pt>
+<./figures/22_lpf_TS_41m_2012_2013.png, id=394, 578.16pt x 578.16pt>
 File: ./figures/22_lpf_TS_41m_2012_2013.png Graphic file (type png)
 <use ./figures/22_lpf_TS_41m_2012_2013.png>
 Package pdftex.def Info: ./figures/22_lpf_TS_41m_2012_2013.png  used on input l
-ine 248.
+ine 257.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/23_lpf_TS_81m_2012_2013.png, id=310, 578.16pt x 578.16pt>
+<./figures/23_lpf_TS_81m_2012_2013.png, id=395, 578.16pt x 578.16pt>
 File: ./figures/23_lpf_TS_81m_2012_2013.png Graphic file (type png)
 <use ./figures/23_lpf_TS_81m_2012_2013.png>
 Package pdftex.def Info: ./figures/23_lpf_TS_81m_2012_2013.png  used on input l
-ine 255.
+ine 264.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/24_lpf_TS_155m_2012_2013.png, id=311, 578.16pt x 578.16pt>
+<./figures/24_lpf_TS_155m_2012_2013.png, id=396, 578.16pt x 578.16pt>
 File: ./figures/24_lpf_TS_155m_2012_2013.png Graphic file (type png)
 <use ./figures/24_lpf_TS_155m_2012_2013.png>
 Package pdftex.def Info: ./figures/24_lpf_TS_155m_2012_2013.png  used on input 
-line 262.
+line 271.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/25_lpf_TS_41m_2013_2014.png, id=312, 578.16pt x 578.16pt>
+<./figures/25_lpf_TS_41m_2013_2014.png, id=397, 578.16pt x 578.16pt>
 File: ./figures/25_lpf_TS_41m_2013_2014.png Graphic file (type png)
 <use ./figures/25_lpf_TS_41m_2013_2014.png>
 Package pdftex.def Info: ./figures/25_lpf_TS_41m_2013_2014.png  used on input l
-ine 270.
+ine 279.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/26_lpf_TS_81m_2013_2014.png, id=313, 578.16pt x 578.16pt>
+<./figures/26_lpf_TS_81m_2013_2014.png, id=398, 578.16pt x 578.16pt>
 File: ./figures/26_lpf_TS_81m_2013_2014.png Graphic file (type png)
 <use ./figures/26_lpf_TS_81m_2013_2014.png>
 Package pdftex.def Info: ./figures/26_lpf_TS_81m_2013_2014.png  used on input l
-ine 277.
+ine 286.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/27_lpf_TS_155m_2013_2014.png, id=314, 578.16pt x 578.16pt>
+<./figures/27_lpf_TS_155m_2013_2014.png, id=399, 578.16pt x 578.16pt>
 File: ./figures/27_lpf_TS_155m_2013_2014.png Graphic file (type png)
 <use ./figures/27_lpf_TS_155m_2013_2014.png>
 Package pdftex.def Info: ./figures/27_lpf_TS_155m_2013_2014.png  used on input 
-line 284.
+line 293.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/28_lpf_TS_35m_2014_2015.png, id=315, 578.16pt x 578.16pt>
+<./figures/28_lpf_TS_35m_2014_2015.png, id=400, 578.16pt x 578.16pt>
 File: ./figures/28_lpf_TS_35m_2014_2015.png Graphic file (type png)
 <use ./figures/28_lpf_TS_35m_2014_2015.png>
 Package pdftex.def Info: ./figures/28_lpf_TS_35m_2014_2015.png  used on input l
-ine 292.
+ine 301.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/29_lpf_TS_47m_2014_2015.png, id=316, 578.16pt x 578.16pt>
+<./figures/29_lpf_TS_47m_2014_2015.png, id=401, 578.16pt x 578.16pt>
 File: ./figures/29_lpf_TS_47m_2014_2015.png Graphic file (type png)
 <use ./figures/29_lpf_TS_47m_2014_2015.png>
 Package pdftex.def Info: ./figures/29_lpf_TS_47m_2014_2015.png  used on input l
-ine 299.
+ine 308.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/30_lpf_TS_81m_2014_2015.png, id=317, 578.16pt x 578.16pt>
+<./figures/30_lpf_TS_81m_2014_2015.png, id=402, 578.16pt x 578.16pt>
 File: ./figures/30_lpf_TS_81m_2014_2015.png Graphic file (type png)
 <use ./figures/30_lpf_TS_81m_2014_2015.png>
 Package pdftex.def Info: ./figures/30_lpf_TS_81m_2014_2015.png  used on input l
-ine 306.
+ine 315.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/31_lpf_TS_155m_2014_2015.png, id=318, 578.16pt x 578.16pt>
+<./figures/31_lpf_TS_155m_2014_2015.png, id=403, 578.16pt x 578.16pt>
 File: ./figures/31_lpf_TS_155m_2014_2015.png Graphic file (type png)
 <use ./figures/31_lpf_TS_155m_2014_2015.png>
 Package pdftex.def Info: ./figures/31_lpf_TS_155m_2014_2015.png  used on input 
-line 313.
+line 322.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/32_lpf_TS_35m_2015_2016.png, id=319, 578.16pt x 578.16pt>
+<./figures/32_lpf_TS_35m_2015_2016.png, id=404, 578.16pt x 578.16pt>
 File: ./figures/32_lpf_TS_35m_2015_2016.png Graphic file (type png)
 <use ./figures/32_lpf_TS_35m_2015_2016.png>
 Package pdftex.def Info: ./figures/32_lpf_TS_35m_2015_2016.png  used on input l
-ine 321.
+ine 330.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/33_lpf_TS_47m_2015_2016.png, id=320, 578.16pt x 578.16pt>
+<./figures/33_lpf_TS_47m_2015_2016.png, id=405, 578.16pt x 578.16pt>
 File: ./figures/33_lpf_TS_47m_2015_2016.png Graphic file (type png)
 <use ./figures/33_lpf_TS_47m_2015_2016.png>
 Package pdftex.def Info: ./figures/33_lpf_TS_47m_2015_2016.png  used on input l
-ine 328.
+ine 337.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/34_lpf_TS_81m_2015_2016.png, id=321, 578.16pt x 578.16pt>
+<./figures/34_lpf_TS_81m_2015_2016.png, id=406, 578.16pt x 578.16pt>
 File: ./figures/34_lpf_TS_81m_2015_2016.png Graphic file (type png)
 <use ./figures/34_lpf_TS_81m_2015_2016.png>
 Package pdftex.def Info: ./figures/34_lpf_TS_81m_2015_2016.png  used on input l
-ine 335.
+ine 344.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/35_lpf_TS_155m_2015_2016.png, id=322, 578.16pt x 578.16pt>
+<./figures/35_lpf_TS_155m_2015_2016.png, id=407, 578.16pt x 578.16pt>
 File: ./figures/35_lpf_TS_155m_2015_2016.png Graphic file (type png)
 <use ./figures/35_lpf_TS_155m_2015_2016.png>
 Package pdftex.def Info: ./figures/35_lpf_TS_155m_2015_2016.png  used on input 
-line 342.
+line 351.
 (pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
-<./figures/36_amf_2014_2015.png, id=323, 578.16pt x 361.35pt>
+<./figures/10_mctd_ps_2011_2012.png, id=408, 578.16pt x 722.7pt>
+File: ./figures/10_mctd_ps_2011_2012.png Graphic file (type png)
+<use ./figures/10_mctd_ps_2011_2012.png>
+Package pdftex.def Info: ./figures/10_mctd_ps_2011_2012.png  used on input line
+ 361.
+(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
+<./figures/11_mctd_ps_2012_2013.png, id=409, 578.16pt x 722.7pt>
+File: ./figures/11_mctd_ps_2012_2013.png Graphic file (type png)
+<use ./figures/11_mctd_ps_2012_2013.png>
+Package pdftex.def Info: ./figures/11_mctd_ps_2012_2013.png  used on input line
+ 368.
+(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
+<./figures/12_mctd_ps_2013_2014.png, id=410, 578.16pt x 722.7pt>
+File: ./figures/12_mctd_ps_2013_2014.png Graphic file (type png)
+<use ./figures/12_mctd_ps_2013_2014.png>
+Package pdftex.def Info: ./figures/12_mctd_ps_2013_2014.png  used on input line
+ 375.
+(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
+<./figures/13_mctd_ps_2014_2015.png, id=411, 578.16pt x 722.7pt>
+File: ./figures/13_mctd_ps_2014_2015.png Graphic file (type png)
+<use ./figures/13_mctd_ps_2014_2015.png>
+Package pdftex.def Info: ./figures/13_mctd_ps_2014_2015.png  used on input line
+ 382.
+(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
+<./figures/14_mctd_ps_2015_2016.png, id=412, 578.16pt x 722.7pt>
+File: ./figures/14_mctd_ps_2015_2016.png Graphic file (type png)
+<use ./figures/14_mctd_ps_2015_2016.png>
+Package pdftex.def Info: ./figures/14_mctd_ps_2015_2016.png  used on input line
+ 389.
+(pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
+<./figures/15_madcp_2014.png, id=413, 578.16pt x 578.16pt>
+File: ./figures/15_madcp_2014.png Graphic file (type png)
+<use ./figures/15_madcp_2014.png>
+Package pdftex.def Info: ./figures/15_madcp_2014.png  used on input line 398.
+(pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
+<./figures/17_madcp_lpf_2014_2015.png, id=414, 578.16pt x 578.16pt>
+File: ./figures/17_madcp_lpf_2014_2015.png Graphic file (type png)
+<use ./figures/17_madcp_lpf_2014_2015.png>
+Package pdftex.def Info: ./figures/17_madcp_lpf_2014_2015.png  used on input li
+ne 406.
+(pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
+<./figures/18_madcp_lpf_2015_2016.png, id=415, 578.16pt x 578.16pt>
+File: ./figures/18_madcp_lpf_2015_2016.png Graphic file (type png)
+<use ./figures/18_madcp_lpf_2015_2016.png>
+Package pdftex.def Info: ./figures/18_madcp_lpf_2015_2016.png  used on input li
+ne 413.
+(pdftex.def)             Requested size: 341.11534pt x 341.11143pt.
+<./figures/36_amf_2014_2015.png, id=416, 578.16pt x 361.35pt>
 File: ./figures/36_amf_2014_2015.png Graphic file (type png)
 <use ./figures/36_amf_2014_2015.png>
-Package pdftex.def Info: ./figures/36_amf_2014_2015.png  used on input line 352
+Package pdftex.def Info: ./figures/36_amf_2014_2015.png  used on input line 425
 .
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/37_amf_2015_2016.png, id=324, 578.16pt x 361.35pt>
+<./figures/37_amf_2015_2016.png, id=417, 578.16pt x 361.35pt>
 File: ./figures/37_amf_2015_2016.png Graphic file (type png)
 <use ./figures/37_amf_2015_2016.png>
-Package pdftex.def Info: ./figures/37_amf_2015_2016.png  used on input line 359
+Package pdftex.def Info: ./figures/37_amf_2015_2016.png  used on input line 432
 .
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/38_smf_lateSummer_2014.png, id=325, 578.16pt x 361.35pt>
+<./figures/38_smf_lateSummer_2014.png, id=418, 578.16pt x 361.35pt>
 File: ./figures/38_smf_lateSummer_2014.png Graphic file (type png)
 <use ./figures/38_smf_lateSummer_2014.png>
 Package pdftex.def Info: ./figures/38_smf_lateSummer_2014.png  used on input li
-ne 367.
+ne 440.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/39_smf_lateSummer_2015.png, id=326, 578.16pt x 361.35pt>
+<./figures/39_smf_lateSummer_2015.png, id=419, 578.16pt x 361.35pt>
 File: ./figures/39_smf_lateSummer_2015.png Graphic file (type png)
 <use ./figures/39_smf_lateSummer_2015.png>
 Package pdftex.def Info: ./figures/39_smf_lateSummer_2015.png  used on input li
-ne 374.
+ne 447.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/40_smf_fall_2014.png, id=327, 578.16pt x 361.35pt>
+<./figures/40_smf_fall_2014.png, id=420, 578.16pt x 361.35pt>
 File: ./figures/40_smf_fall_2014.png Graphic file (type png)
 <use ./figures/40_smf_fall_2014.png>
-Package pdftex.def Info: ./figures/40_smf_fall_2014.png  used on input line 382
+Package pdftex.def Info: ./figures/40_smf_fall_2014.png  used on input line 455
 .
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/41_smf_fall_2015.png, id=328, 578.16pt x 361.35pt>
+<./figures/41_smf_fall_2015.png, id=421, 578.16pt x 361.35pt>
 File: ./figures/41_smf_fall_2015.png Graphic file (type png)
 <use ./figures/41_smf_fall_2015.png>
-Package pdftex.def Info: ./figures/41_smf_fall_2015.png  used on input line 389
+Package pdftex.def Info: ./figures/41_smf_fall_2015.png  used on input line 462
 .
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/42_smf_winter_2015.png, id=329, 578.16pt x 361.35pt>
+<./figures/42_smf_winter_2015.png, id=422, 578.16pt x 361.35pt>
 File: ./figures/42_smf_winter_2015.png Graphic file (type png)
 <use ./figures/42_smf_winter_2015.png>
-Package pdftex.def Info: ./figures/42_smf_winter_2015.png  used on input line 3
-97.
+Package pdftex.def Info: ./figures/42_smf_winter_2015.png  used on input line 4
+70.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/43_smf_winter_2016.png, id=330, 578.16pt x 361.35pt>
+<./figures/43_smf_winter_2016.png, id=423, 578.16pt x 361.35pt>
 File: ./figures/43_smf_winter_2016.png Graphic file (type png)
 <use ./figures/43_smf_winter_2016.png>
 Package pdftex.def Info: ./figures/43_smf_winter_2016.png  used on input line 4
-04.
+77.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/44_smf_spring_2015.png, id=331, 578.16pt x 361.35pt>
+<./figures/44_smf_spring_2015.png, id=424, 578.16pt x 361.35pt>
 File: ./figures/44_smf_spring_2015.png Graphic file (type png)
 <use ./figures/44_smf_spring_2015.png>
 Package pdftex.def Info: ./figures/44_smf_spring_2015.png  used on input line 4
-12.
+85.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/45_smf_spring_2016.png, id=332, 578.16pt x 361.35pt>
+<./figures/45_smf_spring_2016.png, id=425, 578.16pt x 361.35pt>
 File: ./figures/45_smf_spring_2016.png Graphic file (type png)
 <use ./figures/45_smf_spring_2016.png>
 Package pdftex.def Info: ./figures/45_smf_spring_2016.png  used on input line 4
-19.
+92.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/46_smf_earlySummer_2015.png, id=333, 578.16pt x 361.35pt>
+<./figures/46_smf_earlySummer_2015.png, id=426, 578.16pt x 361.35pt>
 File: ./figures/46_smf_earlySummer_2015.png Graphic file (type png)
 <use ./figures/46_smf_earlySummer_2015.png>
 Package pdftex.def Info: ./figures/46_smf_earlySummer_2015.png  used on input l
-ine 427.
+ine 500.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/47_smf_earlySummer_2016.png, id=334, 578.16pt x 361.35pt>
+<./figures/47_smf_earlySummer_2016.png, id=427, 578.16pt x 361.35pt>
 File: ./figures/47_smf_earlySummer_2016.png Graphic file (type png)
 <use ./figures/47_smf_earlySummer_2016.png>
 Package pdftex.def Info: ./figures/47_smf_earlySummer_2016.png  used on input l
-ine 434.
+ine 507.
 (pdftex.def)             Requested size: 341.11534pt x 213.19466pt.
-<./figures/48_M2TC_if_2014.png, id=335, 2007.5pt x 1204.5pt>
+<./figures/48_M2TC_if_2014.png, id=428, 2007.5pt x 1204.5pt>
 File: ./figures/48_M2TC_if_2014.png Graphic file (type png)
 <use ./figures/48_M2TC_if_2014.png>
-Package pdftex.def Info: ./figures/48_M2TC_if_2014.png  used on input line 443.
+Package pdftex.def Info: ./figures/48_M2TC_if_2014.png  used on input line 516.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/49_S2TC_if_2014.png, id=336, 2007.5pt x 1204.5pt>
+<./figures/49_S2TC_if_2014.png, id=429, 2007.5pt x 1204.5pt>
 File: ./figures/49_S2TC_if_2014.png Graphic file (type png)
 <use ./figures/49_S2TC_if_2014.png>
-Package pdftex.def Info: ./figures/49_S2TC_if_2014.png  used on input line 450.
+Package pdftex.def Info: ./figures/49_S2TC_if_2014.png  used on input line 523.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/50_K1TC_if_2014.png, id=337, 2007.5pt x 1204.5pt>
+<./figures/50_K1TC_if_2014.png, id=430, 2007.5pt x 1204.5pt>
 File: ./figures/50_K1TC_if_2014.png Graphic file (type png)
 <use ./figures/50_K1TC_if_2014.png>
-Package pdftex.def Info: ./figures/50_K1TC_if_2014.png  used on input line 457.
+Package pdftex.def Info: ./figures/50_K1TC_if_2014.png  used on input line 530.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/51_O1TC_if_2014.png, id=338, 2007.5pt x 1204.5pt>
+<./figures/51_O1TC_if_2014.png, id=431, 2007.5pt x 1204.5pt>
 File: ./figures/51_O1TC_if_2014.png Graphic file (type png)
 <use ./figures/51_O1TC_if_2014.png>
-Package pdftex.def Info: ./figures/51_O1TC_if_2014.png  used on input line 464.
+Package pdftex.def Info: ./figures/51_O1TC_if_2014.png  used on input line 537.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/52_P1TC_if_2014.png, id=339, 2007.5pt x 1204.5pt>
+<./figures/52_P1TC_if_2014.png, id=432, 2007.5pt x 1204.5pt>
 File: ./figures/52_P1TC_if_2014.png Graphic file (type png)
 <use ./figures/52_P1TC_if_2014.png>
-Package pdftex.def Info: ./figures/52_P1TC_if_2014.png  used on input line 471.
+Package pdftex.def Info: ./figures/52_P1TC_if_2014.png  used on input line 544.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/53_M2TC_if_2015.png, id=340, 2007.5pt x 1204.5pt>
+<./figures/53_M2TC_if_2015.png, id=433, 2007.5pt x 1204.5pt>
 File: ./figures/53_M2TC_if_2015.png Graphic file (type png)
 <use ./figures/53_M2TC_if_2015.png>
-Package pdftex.def Info: ./figures/53_M2TC_if_2015.png  used on input line 479.
+Package pdftex.def Info: ./figures/53_M2TC_if_2015.png  used on input line 552.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/54_M2TC_si_2015.png, id=341, 2007.5pt x 1204.5pt>
+<./figures/54_M2TC_si_2015.png, id=434, 2007.5pt x 1204.5pt>
 File: ./figures/54_M2TC_si_2015.png Graphic file (type png)
 <use ./figures/54_M2TC_si_2015.png>
-Package pdftex.def Info: ./figures/54_M2TC_si_2015.png  used on input line 486.
+Package pdftex.def Info: ./figures/54_M2TC_si_2015.png  used on input line 559.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/55_S2TC_if_2015.png, id=342, 2007.5pt x 1204.5pt>
+<./figures/55_S2TC_if_2015.png, id=435, 2007.5pt x 1204.5pt>
 File: ./figures/55_S2TC_if_2015.png Graphic file (type png)
 <use ./figures/55_S2TC_if_2015.png>
-Package pdftex.def Info: ./figures/55_S2TC_if_2015.png  used on input line 494.
+Package pdftex.def Info: ./figures/55_S2TC_if_2015.png  used on input line 567.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/56_S2TC_si_2015.png, id=343, 2007.5pt x 1204.5pt>
+<./figures/56_S2TC_si_2015.png, id=436, 2007.5pt x 1204.5pt>
 File: ./figures/56_S2TC_si_2015.png Graphic file (type png)
 <use ./figures/56_S2TC_si_2015.png>
-Package pdftex.def Info: ./figures/56_S2TC_si_2015.png  used on input line 501.
+Package pdftex.def Info: ./figures/56_S2TC_si_2015.png  used on input line 574.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/57_K1TC_if_2015.png, id=344, 2007.5pt x 1204.5pt>
+<./figures/57_K1TC_if_2015.png, id=437, 2007.5pt x 1204.5pt>
 File: ./figures/57_K1TC_if_2015.png Graphic file (type png)
 <use ./figures/57_K1TC_if_2015.png>
-Package pdftex.def Info: ./figures/57_K1TC_if_2015.png  used on input line 509.
+Package pdftex.def Info: ./figures/57_K1TC_if_2015.png  used on input line 582.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/58_K1TC_si_2015.png, id=345, 2007.5pt x 1204.5pt>
+<./figures/58_K1TC_si_2015.png, id=438, 2007.5pt x 1204.5pt>
 File: ./figures/58_K1TC_si_2015.png Graphic file (type png)
 <use ./figures/58_K1TC_si_2015.png>
-Package pdftex.def Info: ./figures/58_K1TC_si_2015.png  used on input line 516.
+Package pdftex.def Info: ./figures/58_K1TC_si_2015.png  used on input line 589.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/59_O1TC_if_2015.png, id=346, 2007.5pt x 1204.5pt>
+<./figures/59_O1TC_if_2015.png, id=439, 2007.5pt x 1204.5pt>
 File: ./figures/59_O1TC_if_2015.png Graphic file (type png)
 <use ./figures/59_O1TC_if_2015.png>
-Package pdftex.def Info: ./figures/59_O1TC_if_2015.png  used on input line 524.
+Package pdftex.def Info: ./figures/59_O1TC_if_2015.png  used on input line 597.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/60_O1TC_si_2015.png, id=347, 2007.5pt x 1204.5pt>
+<./figures/60_O1TC_si_2015.png, id=440, 2007.5pt x 1204.5pt>
 File: ./figures/60_O1TC_si_2015.png Graphic file (type png)
 <use ./figures/60_O1TC_si_2015.png>
-Package pdftex.def Info: ./figures/60_O1TC_si_2015.png  used on input line 531.
+Package pdftex.def Info: ./figures/60_O1TC_si_2015.png  used on input line 604.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/61_P1TC_if_2015.png, id=348, 2007.5pt x 1204.5pt>
+<./figures/61_P1TC_if_2015.png, id=441, 2007.5pt x 1204.5pt>
 File: ./figures/61_P1TC_if_2015.png Graphic file (type png)
 <use ./figures/61_P1TC_if_2015.png>
-Package pdftex.def Info: ./figures/61_P1TC_if_2015.png  used on input line 539.
+Package pdftex.def Info: ./figures/61_P1TC_if_2015.png  used on input line 612.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/62_P1TC_si_2015.png, id=349, 2007.5pt x 1204.5pt>
+<./figures/62_P1TC_si_2015.png, id=442, 2007.5pt x 1204.5pt>
 File: ./figures/62_P1TC_si_2015.png Graphic file (type png)
 <use ./figures/62_P1TC_si_2015.png>
-Package pdftex.def Info: ./figures/62_P1TC_si_2015.png  used on input line 546.
+Package pdftex.def Info: ./figures/62_P1TC_si_2015.png  used on input line 619.
 
 (pdftex.def)             Requested size: 341.11534pt x 204.6704pt.
-<./figures/63_iceDraft_2014_2015.png, id=350, 578.16pt x 722.7pt>
+<./figures/63_iceDraft_2014_2015.png, id=443, 578.16pt x 722.7pt>
 File: ./figures/63_iceDraft_2014_2015.png Graphic file (type png)
 <use ./figures/63_iceDraft_2014_2015.png>
 Package pdftex.def Info: ./figures/63_iceDraft_2014_2015.png  used on input lin
-e 555.
+e 628.
 (pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/64_iceDraft_2015_2016.png, id=351, 578.16pt x 722.7pt>
+<./figures/64_iceDraft_2015_2016.png, id=444, 578.16pt x 722.7pt>
 File: ./figures/64_iceDraft_2015_2016.png Graphic file (type png)
 <use ./figures/64_iceDraft_2015_2016.png>
 Package pdftex.def Info: ./figures/64_iceDraft_2015_2016.png  used on input lin
-e 562.
+e 635.
 (pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/65_iceHist_2014_2015.png, id=352, 578.16pt x 722.7pt>
+<./figures/65_iceHist_2014_2015.png, id=445, 578.16pt x 722.7pt>
 File: ./figures/65_iceHist_2014_2015.png Graphic file (type png)
 <use ./figures/65_iceHist_2014_2015.png>
 Package pdftex.def Info: ./figures/65_iceHist_2014_2015.png  used on input line
- 572.
+ 645.
 (pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/66_iceHist_2015_2016.png, id=353, 578.16pt x 722.7pt>
+<./figures/66_iceHist_2015_2016.png, id=446, 578.16pt x 722.7pt>
 File: ./figures/66_iceHist_2015_2016.png Graphic file (type png)
 <use ./figures/66_iceHist_2015_2016.png>
 Package pdftex.def Info: ./figures/66_iceHist_2015_2016.png  used on input line
- 579.
+ 652.
 (pdftex.def)             Requested size: 341.11534pt x 426.3893pt.
-<./figures/67_iceDraftStat_2014_2015.png, id=354, 722.7pt x 433.62pt>
+<./figures/67_iceDraftStat_2014_2015.png, id=447, 722.7pt x 433.62pt>
 File: ./figures/67_iceDraftStat_2014_2015.png Graphic file (type png)
 <use ./figures/67_iceDraftStat_2014_2015.png>
 Package pdftex.def Info: ./figures/67_iceDraftStat_2014_2015.png  used on input
- line 588.
+ line 661.
 (pdftex.def)             Requested size: 341.11534pt x 204.66818pt.
-<./figures/68_iceDraftStat_2015_2016.png, id=355, 722.7pt x 433.62pt>
+<./figures/68_iceDraftStat_2015_2016.png, id=448, 722.7pt x 433.62pt>
 File: ./figures/68_iceDraftStat_2015_2016.png Graphic file (type png)
 <use ./figures/68_iceDraftStat_2015_2016.png>
 Package pdftex.def Info: ./figures/68_iceDraftStat_2015_2016.png  used on input
- line 595.
+ line 668.
 (pdftex.def)             Requested size: 341.11534pt x 204.66818pt.
-<./figures/69_iceVel_2014_2015.png, id=356, 722.7pt x 578.16pt>
+<./figures/69_iceVel_2014_2015.png, id=449, 722.7pt x 578.16pt>
 File: ./figures/69_iceVel_2014_2015.png Graphic file (type png)
 <use ./figures/69_iceVel_2014_2015.png>
 Package pdftex.def Info: ./figures/69_iceVel_2014_2015.png  used on input line 
-604.
+677.
 (pdftex.def)             Requested size: 341.11534pt x 272.89091pt.
-<./figures/70_iceVel_2015_2016.png, id=357, 722.7pt x 578.16pt>
+<./figures/70_iceVel_2015_2016.png, id=450, 722.7pt x 578.16pt>
 File: ./figures/70_iceVel_2015_2016.png Graphic file (type png)
 <use ./figures/70_iceVel_2015_2016.png>
 Package pdftex.def Info: ./figures/70_iceVel_2015_2016.png  used on input line 
-611.
+684.
 (pdftex.def)             Requested size: 341.11534pt x 272.89091pt.
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/01_BSFieldSiteOverview.png>] [5pdfTeX warnin
+l.692 \begin{landscape}
+                        <./figures/01_BSFieldSiteOverview.png>] [8pdfTeX warnin
 g (ext4): destination with the same identifier (name{figure.2}) has been alread
 y used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/HUB.png>] [6pdfTeX warning (ext4): destinati
+l.692 \begin{landscape}
+                        <./figures/HUB.png>] [9pdfTeX warning (ext4): destinati
 on with the same identifier (name{figure.3}) has been already used, duplicate i
 gnored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/ADCP.png>] [7pdfTeX warning (ext4): destinat
-ion with the same identifier (name{figure.4}) has been already used, duplicate 
+l.692 \begin{landscape}
+                        <./figures/ADCP.png>] [10pdfTeX warning (ext4): destina
+tion with the same identifier (name{figure.4}) has been already used, duplicate
+ ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.692 \begin{landscape}
+                        <./figures/IPS.png>] [11pdfTeX warning (ext4): destinat
+ion with the same identifier (name{figure.5}) has been already used, duplicate 
 ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/IPS.png>] [8pdfTeX warning (ext4): destinati
-on with the same identifier (name{figure.5}) has been already used, duplicate i
-gnored
+l.692 \begin{landscape}
+                        <./figures/05_mctd_2011_2012.png (PNG copy)>] [12pdfTeX
+ warning (ext4): destination with the same identifier (name{figure.6}) has been
+ already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/05_mctd_2011_2012.png (PNG copy)>] [9pdfTeX 
-warning (ext4): destination with the same identifier (name{figure.6}) has been 
-already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/06_mctd_2012_2013.png (PNG copy)>] [10pdfTeX
+l.692 \begin{landscape}
+                        <./figures/06_mctd_2012_2013.png (PNG copy)>] [13pdfTeX
  warning (ext4): destination with the same identifier (name{figure.7}) has been
  already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/07_mctd_2013_2014.png (PNG copy)>] [11pdfTeX
+l.692 \begin{landscape}
+                        <./figures/07_mctd_2013_2014.png (PNG copy)>] [14pdfTeX
  warning (ext4): destination with the same identifier (name{figure.8}) has been
  already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/08_mctd_2014_2015.png (PNG copy)>] [12pdfTeX
+l.692 \begin{landscape}
+                        <./figures/08_mctd_2014_2015.png (PNG copy)>] [15pdfTeX
  warning (ext4): destination with the same identifier (name{figure.9}) has been
  already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/09_mctd_2015_2016.png (PNG copy)>] [13pdfTeX
+l.692 \begin{landscape}
+                        <./figures/09_mctd_2015_2016.png (PNG copy)>] [16pdfTeX
  warning (ext4): destination with the same identifier (name{figure.10}) has bee
 n already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/10_mctd_ps_2011_2012.png (PNG copy)>]
-[14pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
-) has been already used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/19_lpf_TS_43m_2011_2012.png>] [17pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.11}) has been alr
+eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/11_mctd_ps_2012_2013.png (PNG copy)>]
-[15pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
-) has been already used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/20_lpf_TS_63m_2011_2012.png>] [18pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.12}) has been alr
+eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/12_mctd_ps_2013_2014.png (PNG copy)>]
-[16pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
-) has been already used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/21_lpf_TS_120m_2011_2012.png>] [19pdfTeX war
+ning (ext4): destination with the same identifier (name{figure.13}) has been al
+ready used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/13_mctd_ps_2014_2015.png (PNG copy)>]
-[17pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
-) has been already used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/22_lpf_TS_41m_2012_2013.png>] [20pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.14}) has been alr
+eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/14_mctd_ps_2015_2016.png (PNG copy)>]
-[18pdfTeX warning (ext4): destination with the same identifier (name{figure.15}
-) has been already used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/23_lpf_TS_81m_2012_2013.png>] [21pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.15}) has been alr
+eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/15_madcp_2014.png (PNG copy)>] [19pdfTeX war
+l.692 \begin{landscape}
+                        <./figures/24_lpf_TS_155m_2012_2013.png>] [22pdfTeX war
 ning (ext4): destination with the same identifier (name{figure.16}) has been al
 ready used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/17_madcp_lpf_2014_2015.png (PNG copy)>]
-[20pdfTeX warning (ext4): destination with the same identifier (name{figure.17}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/18_madcp_lpf_2015_2016.png (PNG copy)>]
-[21pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/19_lpf_TS_43m_2011_2012.png>] [22pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.19}) has been alr
+l.692 \begin{landscape}
+                        <./figures/25_lpf_TS_41m_2013_2014.png>] [23pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.17}) has been alr
 eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/20_lpf_TS_63m_2011_2012.png>] [23pdfTeX warn
+l.692 \begin{landscape}
+                        <./figures/26_lpf_TS_81m_2013_2014.png>] [24pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.18}) has been alr
+eady used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.692 \begin{landscape}
+                        <./figures/27_lpf_TS_155m_2013_2014.png>] [25pdfTeX war
+ning (ext4): destination with the same identifier (name{figure.19}) has been al
+ready used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.692 \begin{landscape}
+                        <./figures/28_lpf_TS_35m_2014_2015.png>] [26pdfTeX warn
 ing (ext4): destination with the same identifier (name{figure.20}) has been alr
 eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/21_lpf_TS_120m_2011_2012.png>] [24pdfTeX war
-ning (ext4): destination with the same identifier (name{figure.21}) has been al
-ready used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/29_lpf_TS_47m_2014_2015.png>] [27pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.21}) has been alr
+eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/22_lpf_TS_41m_2012_2013.png>] [25pdfTeX warn
+l.692 \begin{landscape}
+                        <./figures/30_lpf_TS_81m_2014_2015.png>] [28pdfTeX warn
 ing (ext4): destination with the same identifier (name{figure.22}) has been alr
 eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/23_lpf_TS_81m_2012_2013.png>] [26pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.23}) has been alr
-eady used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/24_lpf_TS_155m_2012_2013.png>] [27pdfTeX war
-ning (ext4): destination with the same identifier (name{figure.24}) has been al
+l.692 \begin{landscape}
+                        <./figures/31_lpf_TS_155m_2014_2015.png>] [29pdfTeX war
+ning (ext4): destination with the same identifier (name{figure.23}) has been al
 ready used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/25_lpf_TS_41m_2013_2014.png>] [28pdfTeX warn
+l.692 \begin{landscape}
+                        <./figures/32_lpf_TS_35m_2015_2016.png>] [30pdfTeX warn
+ing (ext4): destination with the same identifier (name{figure.24}) has been alr
+eady used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.692 \begin{landscape}
+                        <./figures/33_lpf_TS_47m_2015_2016.png>] [31pdfTeX warn
 ing (ext4): destination with the same identifier (name{figure.25}) has been alr
 eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/26_lpf_TS_81m_2013_2014.png>] [29pdfTeX warn
+l.692 \begin{landscape}
+                        <./figures/34_lpf_TS_81m_2015_2016.png>] [32pdfTeX warn
 ing (ext4): destination with the same identifier (name{figure.26}) has been alr
 eady used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/27_lpf_TS_155m_2013_2014.png>] [30pdfTeX war
+l.692 \begin{landscape}
+                        <./figures/35_lpf_TS_155m_2015_2016.png>] [33pdfTeX war
 ning (ext4): destination with the same identifier (name{figure.27}) has been al
 ready used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/28_lpf_TS_35m_2014_2015.png>] [31pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.28}) has been alr
-eady used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/10_mctd_ps_2011_2012.png (PNG copy)>]
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.28}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/29_lpf_TS_47m_2014_2015.png>] [32pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.29}) has been alr
-eady used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/11_mctd_ps_2012_2013.png (PNG copy)>]
+[35pdfTeX warning (ext4): destination with the same identifier (name{figure.29}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/30_lpf_TS_81m_2014_2015.png>] [33pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.30}) has been alr
-eady used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/12_mctd_ps_2013_2014.png (PNG copy)>]
+[36pdfTeX warning (ext4): destination with the same identifier (name{figure.30}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/31_lpf_TS_155m_2014_2015.png>] [34pdfTeX war
-ning (ext4): destination with the same identifier (name{figure.31}) has been al
+l.692 \begin{landscape}
+                        <./figures/13_mctd_ps_2014_2015.png (PNG copy)>]
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.31}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.692 \begin{landscape}
+                        <./figures/14_mctd_ps_2015_2016.png (PNG copy)>]
+[38pdfTeX warning (ext4): destination with the same identifier (name{figure.32}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.692 \begin{landscape}
+                        <./figures/15_madcp_2014.png (PNG copy)>] [39pdfTeX war
+ning (ext4): destination with the same identifier (name{figure.33}) has been al
 ready used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/32_lpf_TS_35m_2015_2016.png>] [35pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.32}) has been alr
-eady used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/17_madcp_lpf_2014_2015.png (PNG copy)>]
+[40pdfTeX warning (ext4): destination with the same identifier (name{figure.34}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/33_lpf_TS_47m_2015_2016.png>] [36pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.33}) has been alr
-eady used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/34_lpf_TS_81m_2015_2016.png>] [37pdfTeX warn
-ing (ext4): destination with the same identifier (name{figure.34}) has been alr
-eady used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.35}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/35_lpf_TS_155m_2015_2016.png> <./figures/36_
-amf_2014_2015.png>] [38pdfTeX warning (ext4): destination with the same identif
-ier (name{figure.36}) has been already used, duplicate ignored
+l.692 \begin{landscape}
+                        <./figures/18_madcp_lpf_2015_2016.png (PNG copy)> <./fi
+gures/36_amf_2014_2015.png>] [41pdfTeX warning (ext4): destination with the sam
+e identifier (name{figure.36}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.37}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/37_amf_2015_2016.png> <./figures/38_smf_late
-Summer_2014.png>] [39pdfTeX warning (ext4): destination with the same identifie
+Summer_2014.png>] [42pdfTeX warning (ext4): destination with the same identifie
 r (name{figure.38}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.39}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/39_smf_lateSummer_2015.png> <./figures/40_sm
-f_fall_2014.png>] [40pdfTeX warning (ext4): destination with the same identifie
+f_fall_2014.png>] [43pdfTeX warning (ext4): destination with the same identifie
 r (name{figure.40}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.41}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/41_smf_fall_2015.png> <./figures/42_smf_wint
-er_2015.png>] [41pdfTeX warning (ext4): destination with the same identifier (n
+er_2015.png>] [44pdfTeX warning (ext4): destination with the same identifier (n
 ame{figure.42}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.43}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/43_smf_winter_2016.png> <./figures/44_smf_sp
-ring_2015.png>] [42pdfTeX warning (ext4): destination with the same identifier 
+ring_2015.png>] [45pdfTeX warning (ext4): destination with the same identifier 
 (name{figure.44}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.45}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/45_smf_spring_2016.png> <./figures/46_smf_ea
-rlySummer_2015.png>] [43pdfTeX warning (ext4): destination with the same identi
+rlySummer_2015.png>] [46pdfTeX warning (ext4): destination with the same identi
 fier (name{figure.46}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.47}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/47_smf_earlySummer_2016.png> <./figures/48_M
-2TC_if_2014.png>] [44pdfTeX warning (ext4): destination with the same identifie
+2TC_if_2014.png>] [47pdfTeX warning (ext4): destination with the same identifie
 r (name{figure.48}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.49}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/49_S2TC_if_2014.png> <./figures/50_K1TC_if_2
-014.png>] [45pdfTeX warning (ext4): destination with the same identifier (name{
+014.png>] [48pdfTeX warning (ext4): destination with the same identifier (name{
 figure.50}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.51}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/51_O1TC_if_2014.png> <./figures/52_P1TC_if_2
-014.png>] [46pdfTeX warning (ext4): destination with the same identifier (name{
+014.png>] [49pdfTeX warning (ext4): destination with the same identifier (name{
 figure.52}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.53}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/53_M2TC_if_2015.png> <./figures/54_M2TC_si_2
-015.png>] [47pdfTeX warning (ext4): destination with the same identifier (name{
+015.png>] [50pdfTeX warning (ext4): destination with the same identifier (name{
 figure.54}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.55}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/55_S2TC_if_2015.png> <./figures/56_S2TC_si_2
-015.png>] [48pdfTeX warning (ext4): destination with the same identifier (name{
+015.png>] [51pdfTeX warning (ext4): destination with the same identifier (name{
 figure.56}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.57}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/57_K1TC_if_2015.png> <./figures/58_K1TC_si_2
-015.png>] [49pdfTeX warning (ext4): destination with the same identifier (name{
+015.png>] [52pdfTeX warning (ext4): destination with the same identifier (name{
 figure.58}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.59}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/59_O1TC_if_2015.png> <./figures/60_O1TC_si_2
-015.png>] [50pdfTeX warning (ext4): destination with the same identifier (name{
+015.png>] [53pdfTeX warning (ext4): destination with the same identifier (name{
 figure.60}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.61}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/61_P1TC_if_2015.png> <./figures/62_P1TC_si_2
-015.png>] [51pdfTeX warning (ext4): destination with the same identifier (name{
+015.png>] [54pdfTeX warning (ext4): destination with the same identifier (name{
 figure.62}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/63_iceDraft_2014_2015.png>] [52pdfTeX warnin
+l.692 \begin{landscape}
+                        <./figures/63_iceDraft_2014_2015.png>] [55pdfTeX warnin
 g (ext4): destination with the same identifier (name{figure.63}) has been alrea
 dy used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/64_iceDraft_2015_2016.png>] [53pdfTeX warnin
+l.692 \begin{landscape}
+                        <./figures/64_iceDraft_2015_2016.png>] [56pdfTeX warnin
 g (ext4): destination with the same identifier (name{figure.64}) has been alrea
 dy used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/65_iceHist_2014_2015.png>] [54pdfTeX warning
+l.692 \begin{landscape}
+                        <./figures/65_iceHist_2014_2015.png>] [57pdfTeX warning
  (ext4): destination with the same identifier (name{figure.65}) has been alread
 y used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
-                        <./figures/66_iceHist_2015_2016.png>] [55pdfTeX warning
+l.692 \begin{landscape}
+                        <./figures/66_iceHist_2015_2016.png>] [58pdfTeX warning
  (ext4): destination with the same identifier (name{figure.66}) has been alread
 y used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.67}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/67_iceDraftStat_2014_2015.png (PNG copy)> <.
-/figures/68_iceDraftStat_2015_2016.png (PNG copy)>] [56pdfTeX warning (ext4): d
+/figures/68_iceDraftStat_2015_2016.png (PNG copy)>] [59pdfTeX warning (ext4): d
 estination with the same identifier (name{figure.68}) has been already used, du
 plicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.69}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.619 \begin{landscape}
+l.692 \begin{landscape}
                         <./figures/69_iceVel_2014_2015.png> <./figures/70_iceVe
 l_2015_2016.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 BIO Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 \T1/aer/m/n/10 sec-u-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 \T1/aer/m/n/10 Moor-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 Mooring
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 Instrument
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 Serial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 Moored
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 Sounding
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 Longitude
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 Start
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 \T1/aer/m/n/10 Date-Time
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 626--626
+Underfull \hbox (badness 2856) in paragraph at lines 699--699
 []|\T1/aer/m/n/10 End Date-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 699--699
 \T1/aer/m/n/10 Time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--627
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
 []|\T1/aer/m/n/10 Sampling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--627
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
 \T1/aer/m/n/10 In-ter-val
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 628--628
-[]|\T1/aer/m/n/10 07-Aug-
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+[]|\T1/aer/m/n/10 ADCP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 628--628
-[]|\T1/aer/m/n/10 07-Aug-
+Underfull \hbox (badness 10000) in paragraph at lines 703--703
+[]|\T1/aer/m/n/10 ADCP
  []
 
 
-Overfull \hbox (78.9552pt too wide) in paragraph at lines 625--631
+Underfull \hbox (badness 10000) in paragraph at lines 704--704
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 705--705
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--707
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--707
+[]|\T1/aer/m/n/10 2012-09-03
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--707
+[]|\T1/aer/m/n/10 2014-08-08
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--708
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--708
+[]|\T1/aer/m/n/10 2012-09-03
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--708
+[]|\T1/aer/m/n/10 2014-08-08
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+[]|\T1/aer/m/n/10 2012-09-03
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+[]|\T1/aer/m/n/10 2012-09-12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--710
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--711
+[]|\T1/aer/m/n/10 2014-08-10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--711
+[]|\T1/aer/m/n/10 2016-08-09
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 712--712
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 712--712
+[]|\T1/aer/m/n/10 2014-08-12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 712--712
+[]|\T1/aer/m/n/10 2016-08-08
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
+[]|\T1/aer/m/n/10 2014-08-12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--713
+[]|\T1/aer/m/n/10 2016-08-08
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
+[]|\T1/aer/m/n/10 2014-08-12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
+[]|\T1/aer/m/n/10 2016-07-02
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 715--715
+[]|\T1/aer/m/n/10 ADCP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
+[]|\T1/aer/m/n/10 2014-08-12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
+[]|\T1/aer/m/n/10 2016-08-08
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
+[]|\T1/aer/m/n/10 2014-08-12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
+[]|\T1/aer/m/n/10 2016-08-08
+ []
+
+
+Overfull \hbox (78.9552pt too wide) in paragraph at lines 698--720
  [][] 
  []
 
 
-Overfull \hbox (7.46855pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 ADCP| 
- []
+LaTeX Warning: Float too large for page by 26.28731pt on input line 720.
+
+[60pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.901 \end{landscape}
+                     ] [61pdfTeX warning (ext4): destination with the same iden
+tifier (name{table.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.901 \end{landscape}
+                     ] [62pdfTeX warning (ext4): destination with the same iden
+tifier (name{table.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.901 \end{landscape}
+                     ] [63pdfTeX warning (ext4): destination with the same iden
+tifier (name{table.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.901 \end{landscape}
+                     ] [64pdfTeX warning (ext4): destination with the same iden
+tifier (name{table.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.901 \end{landscape}
+                     ] [65pdfTeX warning (ext4): destination with the same iden
+tifier (name{table.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.901 \end{landscape}
+                     ] [66
 
 
-Overfull \hbox (3.31613pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Avg| 
- []
-
-
-Overfull \hbox (3.02596pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Min| 
- []
-
-
-Overfull \hbox (4.97603pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Max| 
- []
-
-
-Overfull \hbox (3.31613pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Avg| 
- []
-
-
-Overfull \hbox (3.02596pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Min| 
- []
-
-
-Overfull \hbox (4.97603pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Max| 
- []
-
-
-Overfull \hbox (3.31613pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Avg| 
- []
-
-
-Overfull \hbox (3.02596pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Min| 
- []
-
-
-Overfull \hbox (4.97603pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Max| 
- []
-
-
-Overfull \hbox (3.31613pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Avg| 
- []
-
-
-Overfull \hbox (3.02596pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Min| 
- []
-
-
-Overfull \hbox (4.97603pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Max| 
- []
-
-
-Overfull \hbox (3.31613pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Avg| 
- []
-
-
-Overfull \hbox (3.02596pt too wide) in paragraph at lines 641--641
-[]|\T1/aer/m/n/10 Min| 
- []
-
-
-Overfull \hbox (4.97603pt too wide) in paragraph at lines 641--642
-[]|\T1/aer/m/n/10 Max| 
- []
-
-
-Overfull \hbox (53.85324pt too wide) in paragraph at lines 638--647
- [][] 
- []
-
-[57
-
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
  been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.654 \end{landscape}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{table.2}) has been already used, duplicate ignored
+l.1113 \begin{landscape}
+                        ] [67pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.654 \end{landscape}
-                     ] 
+l.1113 \begin{landscape}
+                        ] [68pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1113 \begin{landscape}
+                        ] [69pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1113 \begin{landscape}
+                        ] [70pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1113 \begin{landscape}
+                        ]
+Overfull \hbox (32.37166pt too wide) in paragraph at lines 1155--1186
+ [][] 
+ []
+
+[71pdfTeX warning (ext4): destination with the same identifier (name{table.12})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1189 \end{landscape}
+                      ] [72pdfTeX warning (ext4): destination with the same ide
+ntifier (name{table.13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1189 \end{landscape}
+                      ] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 657.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 657.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1193.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1193.
 (./myreport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 657.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 657.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1193.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1193.
+
 Package rerunfilecheck Info: File `myreport.out' has not changed.
-(rerunfilecheck)             Checksum: 5D23692C9758C74C5BB09C1F20727424;805.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 657.
+(rerunfilecheck)             Checksum: B53AFEE849462393033DBF70FFAE4B79;897.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1193.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 39 (\begingroup)
+### semi simple group (level 1) entered at line 42 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8778 strings out of 492982
- 130962 string characters out of 6134895
- 242597 words of memory out of 5000000
- 11953 multiletter control sequences out of 15000+600000
- 33199 words of font info for 52 fonts, out of 8000000 for 9000
+ 8950 strings out of 492982
+ 133143 string characters out of 6134895
+ 285747 words of memory out of 5000000
+ 12082 multiletter control sequences out of 15000+600000
+ 39765 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,14n,103p,1131b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 103i,14n,103p,1038b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/u
 sr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ti8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on myreport.pdf (67 pages, 8477051 bytes).
+/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share
+/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/helvetic/uhvr8a.pfb>
+Output written on myreport.pdf (82 pages, 8562915 bytes).
 PDF statistics:
- 712 PDF objects out of 1000 (max. 8388607)
- 502 compressed objects within 6 object streams
- 154 named destinations out of 1000 (max. 500000)
- 460 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 870 PDF objects out of 1000 (max. 8388607)
+ 641 compressed objects within 7 object streams
+ 186 named destinations out of 1000 (max. 500000)
+ 476 words of extra memory for PDF output out of 10000 (max. 10000000)
 
