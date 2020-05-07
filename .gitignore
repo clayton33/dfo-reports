@@ -19,6 +19,8 @@ $RECYCLE.BIN/
 *.lnk
 
 ## Core latex/pdflatex auxiliary files:
+# this example uses .rnw file so ignore .tex produced files
+*.tex
 *.aux
 *.lof
 *.log
@@ -42,7 +44,7 @@ $RECYCLE.BIN/
 # *.pdf
 
 ## Generated if empty string is given at "Please type another file name for output:"
-.pdf
+*.pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
