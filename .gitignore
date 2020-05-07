@@ -9,6 +9,9 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+# figures folder
+figures/
+
 # Windows Installer files
 *.cab
 *.msi
