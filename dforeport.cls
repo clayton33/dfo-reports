@@ -55,6 +55,8 @@
 \def\@issnprint{}
 \def\issnelectronic#1{\gdef\@issnelectronic{#1}}
 \def\@issnelectronic{}
+\def\@isbnno#1{\gdef\@isbnno{#1}}
+\def\@isbnno{}
 \newcommand{\reportcitation}{%
 	\begin{hangparas}{1em}{1}
 	\@authorshort . \@year . \@title . Can. Tech.  Rep. Hydrogr. Ocean Sci. \@reportnum : \pageref{TRlastRoman}{}\,+\,\pageref{LastPage}{}\,p.
@@ -205,8 +207,8 @@
 	\vspace*{\fill}
 	\begin{center}
 	\textcopyright Her Majesty the Queen in Right of Canada, \@year \\
-	Cat. No. \@catno/\@reportnum E \phantom{x} ISSN \@issnprint \phantom{x} (print version)\\
-	Cat. No. \@catno/\@reportnum E-PDF ISSN  \@issnelectronic \phantom{x} (online version) \\
+	%Cat. No. \@catno/\@reportnum E \phantom{x} ISSN \@issnprint \phantom{x} (print version)\\
+	Cat. No. \@catno/\@reportnum E-PDF ISSN  \@issnelectronic \phantom{x} ISBN \@isbnno \\
 	\end{center}
 	\par
 	\bigskip
