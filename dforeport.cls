@@ -55,7 +55,7 @@
 \def\@issnprint{}
 \def\issnelectronic#1{\gdef\@issnelectronic{#1}}
 \def\@issnelectronic{}
-\def\@isbnno#1{\gdef\@isbnno{#1}}
+\def\isbnno#1{\gdef\@isbnno{#1}}
 \def\@isbnno{}
 \newcommand{\reportcitation}{%
 	\begin{hangparas}{1em}{1}
@@ -116,9 +116,9 @@
 	\LARGE
 	\dfocoverfont{\textbf{Canadian Technical Report of\\
 	Hydrography and Ocean Sciences \@reportnum}}
-	\lfoot{\includegraphics[height=7mm, keepaspectratio]{LogoDFO.png}} % save these in local directory /images ?
-	\cfoot{}
-	\rfoot{\includegraphics[height=7mm, keepaspectratio]{LogoCanada.jpg}}
+	%\lfoot{\includegraphics[height=7mm, keepaspectratio]{LogoDFO.png}} % save these in local directory /images ?
+	%\cfoot{}
+	%\rfoot{\includegraphics[height=7mm, keepaspectratio]{LogoCanada.jpg}}
 	\end{flushleft}
 	\EnableFootNotes
 	\clearpage
@@ -128,40 +128,51 @@
 	\footnotesize
 	\lfoot{} \cfoot{\thepage} \rfoot{}
 	\thispagestyle{empty}
+	\vspace*{4\baselineskip}
 	\begin{center}
 		\textbf{Canadian Technical Report of Hydrography and Ocean  Sciences}
 	\end{center}
-	\noindent
-	Technical reports contain scientific and technical information of a type that represents a contribution to existing knowledge but which is not normally found in the primary literature.  The subject matter is generally related to programs and interests of the Oceans and Science sectors of Fisheries and Oceans Canada.
+	\medskip
+	\vskip 6pt
 	\indent
-	\par
+	Technical reports contain scientific and technical information of a type that represents a contribution to existing knowledge but which is not normally found in the primary literature.  The subject matter is generally related to programs and interests of the Oceans and Science sectors of Fisheries and Oceans Canada.
+	\vskip 6pt
+	\indent
 	Technical reports may be cited as full publications.
 	The correct citation appears above the abstract of each report.
 	Each report is abstracted in the data base \emph{Aquatic Sciences and Fisheries Abstracts}.
-	\par
+	\vskip 6pt
+	\indent
 	Technical reports are produced regionally but are numbered nationally.  
 	Requests for individual reports will be filled by the issuing establishment listed on the front cover and title page.
-	\par
+	\vskip 6pt
+	\indent
 	Regional and headquarters establishments of Ocean Science and Surveys ceased publication of their various report series as of December 1981.
 	A complete listing of these publications and the last number issued under each title are published in the \emph{ Canadian Journal of Fisheries and Aquatic Sciences}, Volume 38: Index to Publications 1981.
 	The current series began with Report Number 1 in January 1982.
-	\bigskip
+	\vskip 6pt
+	\medskip
+        \medskip
 	\begin{center}
 		\textbf{Rapport technique canadien sur l'hydrographie et les sciences oc\'{e}aniques}
 	\end{center}
-	\noindent
+	\medskip
+	\vskip 6pt
+	\indent
 	Les rapports techniques contiennent des renseignements scientifiques et techniques qui constituent 
 	une contribution aux connaissances actuelles mais que l'on ne trouve pas normalement dans les revues scientifiques.  
 	Le sujet est g\'{e}n\'{e}ralement rattach\'{e} aux programmes et int\'{e}r\^{e}ts des secteurs des Oc\'{e}ans et des Sciences de P\^{e}ches et Oc\'{e}ans Canada.
+	\vskip 6pt
 	\indent
-	\par
 	Les rapports techniques peuvent \^{e}tre cit\'{e}s comme des publications \`{a} part enti\`{e}re. 
 	Le titre exact figure au-dessus du r\'{e}sum\'{e} de chaque rapport.  
 	Les rapports techniques sont r\'{e}sum\'{e}s dans la base de donn\'{e}es \emph{R\'{e}sum\'{e}s des sciences aquatiques et halieutiques}.
-	\par
+	\vskip 6pt
+	\indent
 	Les rapports techniques sont produits \`{a} l'\'{e}chelon r\'{e}gional, mais num\'{e}rot\'{e}s \`{a} l'\'{e}chelon national.
 	Les demandes de rapports seront satisfaites par l'\'{e}tablissement auteur dont le nom figure sur la couverture et sur la page de titre.
-	\par
+	\vskip 6pt
+	\indent
 	Les \'{e}tablissements de l'ancien secteur des Sciences et Lev\'{e}s oc\'{e}aniques dans les r\'{e}gions et \`{a}
  	l'administration centrale ont cess\'{e} de publier leurs diverses s\'{e}ries de rapports en d\'{e}cembre 1981.  
 	Vous trouverez dans l'index des publications du volume 38 du \emph{Journal canadien des sciences halieutiques et aquatiques}, 
@@ -177,7 +188,7 @@
 	\begin{center}
 	%\noindent
 	\linespread{1.37}
-	Canadian Data Report of \\
+	Canadian Technical Report of \\
 	Hydrography and Ocean Sciences \@reportnum
 	\end{center}
 	\vfill
@@ -208,7 +219,7 @@
 	\begin{center}
 	\textcopyright Her Majesty the Queen in Right of Canada, \@year \\
 	%Cat. No. \@catno/\@reportnum E \phantom{x} ISSN \@issnprint \phantom{x} (print version)\\
-	Cat. No. \@catno/\@reportnum E-PDF ISSN  \@issnelectronic \phantom{x} ISBN \@isbnno \\
+	Cat. No. \@catno/\@reportnum E-PDF \phantom{x} ISBN \@isbnno \phantom{x} ISSN  \@issnelectronic\\
 	\end{center}
 	\par
 	\bigskip
