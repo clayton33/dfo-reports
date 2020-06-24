@@ -111,7 +111,7 @@ And example of citing the table created with xtable, Table \ref{t:subRegions}.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nibh est, efficitur vitae luctus sed, suscipit id magna. Ut non quam accumsan justo vulputate feugiat eget sit amet arcu. Nulla blandit lacinia erat, a lobortis est auctor quis. Etiam at dui pharetra, feugiat sem sit amet, bibendum nunc. Maecenas tincidunt lorem vel metus auctor cursus. Mauris suscipit suscipit diam, pharetra vulputate ex finibus in.
 
 \pagebreak
-\bibliographystyle{plainnat}
+\bibliographystyle{apalike}
 \bibliography{references}
 
 
