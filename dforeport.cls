@@ -23,12 +23,17 @@
 \setlength{\topmargin}{-1.0cm} % CHECKME
 \setlength{\oddsidemargin}{0.25in} % the extra 0.05 is to avoid hassles with printers 
 \setlength{\evensidemargin}{0in}
+%\addtolength{\oddsidemargin}{-.625in} % -0.875 + 0.25 = -0.625
+%\addtolength{\evensidemargin}{-1.175in} % margins are 1.3 in word, default latex are 1.875 
 \setlength{\textwidth}{\paperwidth}
 \addtolength{\textwidth}{-2.60in} % the extra 2*0.05 is to avoid hassles with printers 
 \setlength{\textheight}{\paperheight}
 \addtolength{\textheight}{-2.1in}
+\setlength{\parindent}{0.3in}
+%\setlength{\headwidth}{10.5in}%
 %%
 %%
+
 
 
 %% COVER and TITLE PAGE
@@ -59,7 +64,7 @@
 \def\@isbnno{}
 \newcommand{\reportcitation}{%
 	\begin{hangparas}{1em}{1}
-	\@authorshort . \@year . \@title . Can. Tech.  Rep. Hydrogr. Ocean Sci. \@reportnum : \pageref{TRlastRoman}{}\,+\,\pageref{LastPage}{}\,p.
+	\@authorshort \@year . \@title . Can. Tech.  Rep. Hydrogr. Ocean Sci. \@reportnum : \pageref{TRlastRoman}{}\,+\,\pageref{LastPage}{}\,p.
 	\end{hangparas}
 }
 \def\reportabstract#1{\gdef\@reportabstract{#1}}
@@ -79,6 +84,7 @@
 }
 
 % Define helvetica font for cover page
+%\newenvironment{coverfont}{\fontfamily{phv}\selectfont}{\par}
 \newenvironment{coverfont}{\fontfamily{phv}\selectfont}{\par}
 \DeclareTextFontCommand{\dfocoverfont}{\coverfont}
 
@@ -97,44 +103,71 @@
    \endgroup%
 }
 
+\newenvironment{changemargin}[2]{%
+  \begin{list}{}{%
+    \setlength{\topsep}{0pt}%
+    \setlength{\leftmargin}{#1}%
+    \setlength{\rightmargin}{#2}%
+    \setlength{\listparindent}{\parindent}%
+    \setlength{\itemindent}{\parindent}%
+    \setlength{\parsep}{\parskip}%
+    %\addtolength{\headwidth}{\marginparsep}
+    %\addtolength{\headwidth}{\marginparwidth}
+  }%
+  \item[]}{\end{list}}
+
+
 % cover page
 \newcommand{\@makefrontcoverpage} {%
+	%\begin{changemargin}{-0.3in}{-0.6in}
 	\thispagestyle{fancyplain}
 	\DisableFootNotes
 	\noindent
 	\begin{flushleft}
-	\LARGE
+	\vspace*{4\baselineskip}
+	\fontsize{18}{16}\selectfont
 	\dfocoverfont{\textbf{\@title}}\\
-	\vfill
+	%\vfill
+	\vspace*{5\baselineskip}
 	\Large
-	\dfocoverfont{\@author}
-	\vfill
-	\dfocoverfont{\@address}
-	\vfill
-	\dfocoverfont{\@year}
-	\vfill
+	\dfocoverfont{\@author}\\
+	%\vfill
+	\vspace*{4\baselineskip}
+	\dfocoverfont{\@address}\\
+	%\vfill
+	\vspace*{5\baselineskip}
+	\dfocoverfont{\@year}\\
+	%\vfill
+	\vspace*{3\baselineskip}
 	\LARGE
-	\dfocoverfont{\textbf{Canadian Technical Report of\\
-	Hydrography and Ocean Sciences \@reportnum}}
-	%\lfoot{\includegraphics[height=7mm, keepaspectratio]{LogoDFO.png}} % save these in local directory /images ?
-	%\cfoot{}
-	%\rfoot{\includegraphics[height=7mm, keepaspectratio]{LogoCanada.jpg}}
-	\end{flushleft}
+	\dfocoverfont{\textbf{Canadian Technical Report of}} \\
+	\dfocoverfont{\textbf{Hydrography and Ocean Sciences \@reportnum}} \\
+	\vfill
+	\lfoot{\includegraphics[height=7mm, keepaspectratio]{LogoDFO.png}} % save these in local directory /images ?
+	\cfoot{}
+	\rfoot{\includegraphics[height=6mm, keepaspectratio]{canadaLogo.png}}
 	\EnableFootNotes
+	\end{flushleft}
+	
+	%\end{changemargin}
+	
 	\clearpage
 }
 % cover page back
 \newcommand{\@makebackcoverpage} {%
-	\footnotesize
+	\small
+	%\fontsize{10}{10}\selectfont
+	%\normalsize
 	\lfoot{} \cfoot{\thepage} \rfoot{}
 	\thispagestyle{empty}
-	\vspace*{4\baselineskip}
+	\vspace*{7\baselineskip}
 	\begin{center}
 		\textbf{Canadian Technical Report of Hydrography and Ocean  Sciences}
 	\end{center}
 	\medskip
-	\vskip 6pt
-	\indent
+	%\vskip 6pt
+	%\indent
+	\par
 	Technical reports contain scientific and technical information of a type that represents a contribution to existing knowledge but which is not normally found in the primary literature.  The subject matter is generally related to programs and interests of the Oceans and Science sectors of Fisheries and Oceans Canada.
 	\vskip 6pt
 	\indent
@@ -157,27 +190,21 @@
 		\textbf{Rapport technique canadien sur l'hydrographie et les sciences oc\'{e}aniques}
 	\end{center}
 	\medskip
-	\vskip 6pt
-	\indent
+	%\vskip 6pt
+	%\indent
+	\par
 	Les rapports techniques contiennent des renseignements scientifiques et techniques qui constituent 
 	une contribution aux connaissances actuelles mais que l'on ne trouve pas normalement dans les revues scientifiques.  
 	Le sujet est g\'{e}n\'{e}ralement rattach\'{e} aux programmes et int\'{e}r\^{e}ts des secteurs des Oc\'{e}ans et des Sciences de P\^{e}ches et Oc\'{e}ans Canada.
 	\vskip 6pt
 	\indent
-	Les rapports techniques peuvent \^{e}tre cit\'{e}s comme des publications \`{a} part enti\`{e}re. 
-	Le titre exact figure au-dessus du r\'{e}sum\'{e} de chaque rapport.  
-	Les rapports techniques sont r\'{e}sum\'{e}s dans la base de donn\'{e}es \emph{R\'{e}sum\'{e}s des sciences aquatiques et halieutiques}.
+	Les rapports techniques peuvent \^{e}tre cit\'{e}s comme des publications \`{a} part enti\`{e}re. Le titre exact figure au-dessus du r\'{e}sum\'{e} de chaque rapport. Les rapports techniques sont r\'{e}sum\'{e}s dans la base de donn\'{e}es \emph{R\'{e}sum\'{e}s des sciences aquatiques et halieutiques}.
 	\vskip 6pt
 	\indent
-	Les rapports techniques sont produits \`{a} l'\'{e}chelon r\'{e}gional, mais num\'{e}rot\'{e}s \`{a} l'\'{e}chelon national.
-	Les demandes de rapports seront satisfaites par l'\'{e}tablissement auteur dont le nom figure sur la couverture et sur la page de titre.
+	Les rapports techniques sont produits \`{a} l'\'{e}chelon r\'{e}gional, mais num\'{e}rot\'{e}s \`{a} l'\'{e}chelon national. Les demandes de rapports seront satisfaites par l'\'{e}tablissement auteur dont le nom figure sur la couverture et la page de titre.
 	\vskip 6pt
 	\indent
-	Les \'{e}tablissements de l'ancien secteur des Sciences et Lev\'{e}s oc\'{e}aniques dans les r\'{e}gions et \`{a}
- 	l'administration centrale ont cess\'{e} de publier leurs diverses s\'{e}ries de rapports en d\'{e}cembre 1981.  
-	Vous trouverez dans l'index des publications du volume 38 du \emph{Journal canadien des sciences halieutiques et aquatiques}, 
-	la liste de ces publications ainsi que le dernier num\'{e}ro paru dans chaque cat\'{e}gorie.  
-	La nouvelle s\'{e}rie a commenc\'{e} avec la publication du rapport num\'{e}ro 1 en janvier 1982.
+	Les \'{e}tablissements de l'ancien secteur des Sciences et Lev\'{e}s oc\'{e}aniques dans les r\'{e}gions et \`{a} l'ad-\linebreak ministration centrale ont cess\'{e} de publier leurs diverses s\'{e}ries de rapports en d\'{e}cembre 1981. Vous \linebreak trouverez dans l'index des publications du volume 38 du \emph{Journal canadien des sciences halieutiques et aquatiques}, la liste de ces publications ainsi que le dernier num\'{e}ro paru dans chaque cat\'{e}gorie. La \linebreak nouvelle s\'{e}rie a commenc\'{e} avec la publication du rapport num\'{e}ro 1 en janvier 1982.
 	\clearpage
 	}
 
@@ -247,11 +274,15 @@
 %% FRONT PAGES
 \renewcommand{\contentsname}{Table of Contents}
 \def\frontmatter{%
-	\pagenumbering{roman}
 	\pagestyle{plain}
-	\@makefrontcoverpage
+	%\@makefrontcoverpage
+	\includepdf[noautoscale]{cover.pdf}
+	\thispagestyle{empty}
 	\fontsize{10}{12}\selectfont
-	\@makebackcoverpage
+	%\@makebackcoverpage
+	\includepdf[noautoscale]{coverInside.pdf}
+	\thispagestyle{empty}
+	\pagenumbering{roman}
 	\@makefronttitlepage
 	\@makebacktitlepage
         \tableofcontents
@@ -271,7 +302,7 @@
 %% MAIN PAGES
 \newcommand{\properpagestyle}{%
 	\pagestyle{plain}}
-\def\mainmatter{%
+	\def\mainmatter{%
 	\pagenumbering{arabic}
 	\properpagestyle
 	}
