@@ -12,9 +12,9 @@ The link provided for the above require those to be on the DFO network. The guid
 
 You can either download this directory and make changes to ``myreport.tex``. Or you can copy over a few files into your directory. Required files include:
 
-* ``LogoCanada.png``
-* ``LogoDFO.png``
 * ``dforeport.cls``
 
 It is suggested that the user take a look at ``myreport.tex`` as it shows what to include in the preamble and right after you begin your document.
+
+It is also required that the user export the cover page and inside cover page from MS Word to .pdf. To do this, make changes to `coverDocuments/HydroTechCover.doc`, then go to save > export > export as pdf, and save the file as `cover.pdf` in the working directory. The user can either copy over `coverInside.pdf`, which has already been exported from MS Word or export it themselves. Note that having both files are required for compiling the latex document into `.pdf`.
  
